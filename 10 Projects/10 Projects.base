@@ -1,0 +1,18 @@
+filters:
+  and:
+    - Type.contains("Project")
+    - '!Type.contains("Template")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - started
+      - start_date
+    sort: []
+  - type: table
+    name: View
+    order:
+      - file.name
+      - started
+    sort: []
