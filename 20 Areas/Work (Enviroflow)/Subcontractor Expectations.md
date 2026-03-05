@@ -1,0 +1,32 @@
+- Quality of work expectations
+- Drainage work to be done to code, specifically:
+- G13 and E1
+- AS3500 standard as applicable
+- local authority standard
+- other pipelaying includes and is not limited to:
+- minimum cover above the drainage pipes at 300mm
+1.  if minimum cover can\'t be achieved, we need to be contacted asap to discuss a solution
+- backfill compacted at 300mm layers
+- use only sand or chip to bed the pipese
+- Trenches under driveways are need to be backfiled is ap20 and compacted
+- Ground finish
+- anywhere where excavation or demolition has been done, the grounds need to be an even grade ready for concrete
+- where concrete is to be laid the ground needs to be 100 mm below finished/ existing concrete levels
+- where asphelt is to be laid the ground needs to be 30mm below finished/ existing asphelt levels
+- where gravel has been scraped back and needs to be reinstated, the ground needs to be even and backfilled with hard fill and gravel laid evenly
+\*\*
+- QA requirements
+- photo of bedding material
+- photo of toilet/s connection/s
+- photo of boundary sewer lateral connection
+- compaction at 300mm layers
+- ps3
+- as built
+- warrenties covered under consumer guarentees act
+- EQC non-compete
+- no soliciting EQC work while carrying out contracts for enviroflow
+- remove any advertising through any medium, for earthquake repair works
+- Penalty rates for late remdiation 7 days
+- \$350 for us to establish
+- \$100 per hour per staff memeber deployed
+- materials charged at cost

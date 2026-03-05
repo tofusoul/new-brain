@@ -1,0 +1,15 @@
+- Put some thoughts in [[Luca]]
+- [[Meal_Plan]] Luca likes:
+	- Edemame
+	- Olive Oil
+	- carrot sticks
+	- mash potatoes
+	- Kale Chips
+	- Tuna Sushi
+	- Kumara
+	- Salami
+	- Roast Chicken
+	- Meat Ball Soup
+	- Fried Tofu
+	- 
+

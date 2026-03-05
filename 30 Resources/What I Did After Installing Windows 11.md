@@ -1,0 +1,19 @@
+- [ ] switch to dark theme. 
+- [ ] update system
+- [ ] remempped the back and forward buttons to copy and paste
+- [ ] install brave
+	- [ ] add it to the sync chain
+- [ ] Install power toy
+- [ ] install VLC
+- [ ] install vs code
+	- signin 
+- [ ] Install WSL on new computer
+	- [ ] Install ubuntu
+	- [ ] Go through [[What I do After Installing Standard Linux Distros]] steps in wsl
+	- [ ] get tiling WM for windows so I am not so icked
+		- [ ] install glaze wm
+		- [ ] rice windows a bit for aesthetics
+		- [ ] install https://github.com/ChrisTitusTech/winutil 
+	- [ ] set super t to terminal
+	- [ ] set  super b to browser
+	- [ ] https://windhawk.net/

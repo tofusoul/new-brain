@@ -1,0 +1,1 @@
+I think I have a mix of Autism and ADHD commonly shorten as AuDHD

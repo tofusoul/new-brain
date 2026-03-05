@@ -1,0 +1,4 @@
+- Python library to make flutter apps
+- Installation
+- to install, on linux g-streamer is needed
+- <https://gstreamer.freedesktop.org/documentation/installing/on-linux.html?gi-language=c>

@@ -1,0 +1,25 @@
+- The Noodle Business with Poncho
+- NZ business code
+- H451260
+- [x] [[Prep for Launch Day]] CLOSED: \[2021-11-15 Mon 08:59\] -\[\[2021 
+Week 41\]\]
+- [[Regular Noodle Day]]
+- [[10 Projects/Setup Business]]
+- [ ] [[Prep for Launch Day]] -[[2021 Week 41]] 
+- [[Regular Noodle Day]]
+- [ ] Setup a website 
+- [x] Inspection on October 18th SCHEDULED: \<2021-12-01 Wed> 
+- [x] Get a list of todos going 
+- [x] deep clean of the kitchen espeicially the fridge 
+- [x] Setup the Systems for the Commercial Home Kitchen
+# Marketing
+- [ ] Setup a website 
+- [x] Register Domain Names 
+	- twobearsfood.co.nz <https://iwantmyname.com/?domain=twobearsfood.co.nz>
+	- twobearsfood.com
+	- twobearsnoodle all domains available
+- [x] send Poncho my recipe (Andrew) CLOSED: \[2021-11-11 Thu 11:55\] 
+- [ ] Linocut Flags 
+- [ ] make some stickers (Poncho) 
+- [x] Set up a place to follow us. CLOSED: \[2021-11-11 Thu 11:55\] 
+- [x] Get a place noodles to operate CLOSED: \[2021-10-07 Thu 12:53\] 

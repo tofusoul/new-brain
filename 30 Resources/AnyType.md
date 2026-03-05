@@ -1,0 +1,4 @@
+- An notion alternative
+- local first
+- built on web 3 tech. 
+- In a lot of ways it's one of the best note systems of it's kind, but just not that nice. Can't seem to get flow when using it. 

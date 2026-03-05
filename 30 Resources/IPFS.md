@@ -1,0 +1,2 @@
+- Inter Planetary File System
+- interesting web3 idea but not sure how to apply it

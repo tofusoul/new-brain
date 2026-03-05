@@ -1,0 +1,5 @@
+---
+aliases:
+  - KiTTy
+  - Kitty Term
+---

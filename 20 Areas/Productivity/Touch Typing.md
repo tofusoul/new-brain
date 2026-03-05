@@ -1,0 +1,22 @@
+- I seem to be fine and have reasonably high accuracy on my left hand, but my right hand doesn't seem to press keys consistently. I think this is because the hand leaves the centre way too often. for say , backspace, braces, ampersand etc. 
+- some bad habits
+- o o o o o o o o o 
+- p p p p p p p p p 
+- op op op op op op op op
+- po po po po po po po
+- ou ou ou ou ou ou ou ou ou
+- ip ip ip ip ip ip ip ip ip
+- pi pi pi pi pi pi pi pi pi 
+- , , , , , , , , , 
+- . . . . . . . . . .
+- ... ... ... ... ... ... ... 
+- [] [] [] [] [] [] [] [] []  [] \
+- {} {} {} {} {} {} 
+- it's it's it's it's it's it's it's
+- it's wondrous it's onerous it's onerous it's onerous it's onerous it's onerous
+- onerous onerous onerous onerous onerous onerous onerous
+- wondrous wondrous wondrous wondrous wondrous wondrous 
+- spacious spacious spacious spacious spacious
+- still doesn't feel like i have mastery of those letters that are typed on the last three fingers on my right hand. 
+- jumpin' jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping jumping imp pimp imp pimp pippin pippin pippin jumping pumping jim jim jump jump jumping him him hi jim jinn djinn django pimp pump pimp pump pimp pump pimp pump jumping jumpin' jacks   
+- I don't consistently use my middle finger for the 'i'  

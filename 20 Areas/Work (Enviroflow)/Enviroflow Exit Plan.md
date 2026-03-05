@@ -1,0 +1,33 @@
+## My Steps
+
+# Steps Involving Others
+- [ ] Shift Duckdb Billing plan to [[Ryan Gebbie|Ryan]] or [[Kerry Spark|Kerry]]
+	- [ ] invited the 
+- [ ] Shift the Xero Developer account and keys to the org
+- [ ] Document User Removal from GSUITE
+	- [ ] Document the Invoice Checking Process
+		- [x] #task Update Data on [[Enviroflow Data Reports]] ⏳ 2025-09-26 ✅ 2025-10-07
+			- [ ] on [Trello Board](https://trello.com/b/ULjUjr93/nhc-workflow), move this week's report job to 'Andrew Checking'
+			- [ ] Sync data on [[Enviroflow App]]
+				- [x] Update last week's Quote data on the Xero part of the Enviroflow app
+					- [ ] Transform data and load into DB
+				- [ ] Sync project data 
+				- [ ] Sync labour data
+			- [ ] Add the list of jobs to this week to the [Spread Sheet](https://docs.google.com/spreadsheets/d/1-c_VsrnmDK7eOB3pRxjTP0f2v0qFanpFomNuZJktDoU/edit?gid=45459369#gid=45459369)
+			- [ ] update spreadsheet data from database
+				- [ ] project
+				- [ ] Labour
+				- [ ] Quotes Data
+			- [ ] update spreadsheet data from xero reports
+				- [ ] Sales
+				- [ ] Costs
+			- [ ] Tidy up the data in spreadsheet
+				- [ ] Costs
+				- [ ] Labour
+				- [ ] Sales
+				- [ ] Projects
+			- [ ] remove duplicates in the tables
+			- [ ] Look through week's job to check for data issues
+	- [ ] Reset and Return Computer
+	- [ ] show people how to access the data
+	- [ ] 

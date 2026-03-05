@@ -1,0 +1,7 @@
+- [ ] Plan the coming month with Lil 
+- [ ] Plan a date wit [[Lil]] 
+- [ ] Plan a [[Explore nature as a family]] 
+- Weekend 1 Host
+- Weekend 2 [[Explore nature as a family]]
+- Weekend 3 Plan
+- Weekend 4 Date

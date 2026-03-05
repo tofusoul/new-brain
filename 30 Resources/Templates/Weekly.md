@@ -11,8 +11,7 @@ week_starts: "{{monday:YYYY-MM-DD}}"
 week_ends: "{{sunday:YYYY-MM-DD}}"
 week _no: "{{date:ww}}"
 ---
-# Week:{{date:ww}} in Month [[Month/{{date:YYYY}} {{date:MMMM}}]] of
-  [[Year/{{date:YYYY}}]]
+# Week:{{date:ww}} in Month [[00 Periodic/Month/{{date:YYYY}} {{date:MMMM}}]] of [[00 Periodic/Year/{{date:YYYY}}]]
 
 ## What Do I Want To Get Done This Week?
 
@@ -39,8 +38,8 @@ week _no: "{{date:ww}}"
 
 ## Sunday [[{{sunday:YYYY-MM-DD}}]]
 
-``` dataview
-TASK FROM ""
-WHERE contains(tags, "#this_week") and !completed and !checked
-GROUP BY file.link
+```tasks
+not done
+(tags include #this_week)
+short mode
 ```

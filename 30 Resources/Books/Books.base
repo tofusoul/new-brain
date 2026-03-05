@@ -1,0 +1,27 @@
+filters:
+  and:
+    - tags.contains("book")
+    - '!Type.contains("Template")'
+views:
+  - type: table
+    name: All Books
+    order:
+      - book source
+      - book author
+      - book genre
+      - fiction?
+      - started
+      - finished
+      - priority
+      - rating
+    sort: []
+  - type: table
+    name: Reading List
+    order:
+      - book source
+      - book author
+      - book genre
+      - started
+      - finished
+      - rating
+    sort: []

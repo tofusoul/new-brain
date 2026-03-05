@@ -1,0 +1,5 @@
+- [Evolutionary Architecture](https://learning-oreilly-com.ezproxy.christchurchcitylibraries.com/videos/evolutionary-architecture-fundamentals/9781492027089/)
+- Referred to this by [this](https://www.youtube.com/watch?v=36OTe7LNd6M) youtube video about software design.
+	- **Why:** clear thinking and communication about the software we are building
+-  have bought some courses on [udemy](https://www.udemy.com/home/my-courses/learning/)
+- [ ] #task Make an [[Obsidian Bases|Obsidian Base]] to track the courses I intend to take

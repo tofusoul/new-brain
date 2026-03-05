@@ -1,0 +1,1 @@
+- Get some ideas from <https://konmari.com/>

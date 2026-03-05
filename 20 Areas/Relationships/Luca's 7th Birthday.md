@@ -1,0 +1,51 @@
+
+2pm
+### Luca's Birthday Party
+- [ ] Pinata 
+	- [ ] Pokeball 
+	- [x] Get scrap paper
+	- [x] get cardboard
+	- [ ] figure out where to hang the pinata
+	- [ ] make the pinata
+	- [ ] get lollies and loot for the pinata
+	- [ ] crepe paper
+	- [ ] beach ball
+- [ ] Birthday Decorations
+	- [ ] Baloons
+	- [ ] Candles
+	- [ ] Print pokemons and laminate
+	- [ ] pokemon stickers
+- [ ] Food
+	- [ ] Cake
+		- [ ] fondant for dragonair
+	- [ ] snacks
+		- [ ] pop corn kernals
+		- [ ] cheese balls
+		- [ ] chips
+		- [ ] Fairy Bread
+		- [ ] cubone bones (pretzle)
+		- [ ] grapes
+		- [ ] ritz crackers
+		- [ ] 
+- [ ] Games and activities
+	- [ ] who's that pokemon or get Dylan to make a pokemon quiz
+	- [ ] pinyata
+	- [ ] paint rocks 
+		- [ ] Test acrylic markers from [kmart](https://www.kmart.co.nz/product/36-pack-acrylic-paint-markers-43362844/?sku=43362844&ds_eid=700000001665448&ds_e=GOOGLE.&gad_campaignid=18818409038)
+- [ ] Tidy up the out door area
+	- [ ] Mow the Lawn 
+	- [ ] do some quick weeding
+	- [ ] Clean the trampoline
+	- [ ] Prep for fire and toasting marshmellows
+		- [ ] clean out fire area 
+		- [ ] get some 
+		- [ ] marshmellow
+- [ ] Goody Bags
+	- [x] get paper bags
+		- [x] [irridecent bags] https://www.looksharpstore.co.nz/product/iridescent-small-paper-bags-21cm-4pk/
+	- [x] pokemon cards 
+	- [ ] sweets
+	- [x] pokemon stickers
+	- [x] gibbets
+# ideas
+[[Luca's_7th_Party.excalidraw]]

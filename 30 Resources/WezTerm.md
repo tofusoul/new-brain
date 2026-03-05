@@ -1,0 +1,2 @@
+Modern, configurable GPU accelerated terminal emulator with Lua Configs
+- Was too new when I tried it, had a fair few bugs that were annoying enough. [[Kitty]] worked well enough for me for the most part and the config was striaght forward enough to play with. 

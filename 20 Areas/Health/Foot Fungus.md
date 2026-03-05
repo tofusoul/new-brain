@@ -1,0 +1,4 @@
+- [<] #task Talk to the doctor about getting oral fungal treatment ⛔ vhsg3k ➕ 2025-12-29 ⏳ 2026-01-05
+	- [ ] topical laqure fungal treatment  
+	- according to [[Lil]]'s research that has a 1/4 success rate
+- [<] #task grind off the top of the fungal toe nail and apply antifungal 🆔 vhsg3k ➕ 2025-12-29 ⏳ 2026-01-10

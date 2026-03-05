@@ -1,0 +1,2 @@
+- [[Dylan]]'s School, he is moving on to [[Christchurch South Intermediate School|Christchurch South]] in 2025
+- [[Luca]] has been at this school as well 

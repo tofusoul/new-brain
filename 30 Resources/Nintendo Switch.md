@@ -1,0 +1,5 @@
+---
+title: Nintendo Switch
+date: 2023-11-17
+---
+

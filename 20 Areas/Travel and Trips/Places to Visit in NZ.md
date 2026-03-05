@@ -1,0 +1,1 @@
+- [lord of the rings location](https://www.doc.govt.nz/parks-and-recreation/places-to-go/lord-of-the-rings-locations/)

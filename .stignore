@@ -1,0 +1,34 @@
+# Obsidian-specific files that should NOT sync between devices
+
+# Workspace files (open files, cursor positions, window state - machine-specific)
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/workspace.json
+
+# Obsidian plugin data (volatile state files - changes constantly on each device)
+.obsidian/plugins/*/data
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/*.sync-conflict-*
+
+# BRAT plugin cache (plugin downloads)
+.obsidian/plugins/obsidian42-brat/plugins/
+
+# Sync conflict files (cleanup)
+*.sync-conflict-*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor/IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig

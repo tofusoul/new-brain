@@ -1,0 +1,924 @@
+# Task Overview
+
+Here is a summary of your open tasks, organized by what I infer to be your main areas of focus. I've added some notes to each section to provide context and help you prioritize.
+
+## Areas of Focus
+
+## Habits to Form
+
+This section is for building good habits and routines in your daily life.
+
+- [ ] Setup devices as single use to establish the productive contexts
+- [ ] Computer only for creating things
+- [ ] Use the phone only for communication and essential tasks
+- [ ] Only play games on the nintendo switch
+- [ ] Get rid of games on phone
+- [ ] Get rid of games on computer
+- [ ] Get into a habit for some good routines
+- [ ] Establish some dietary rules that are conducive to physical health
+- [ ] Get a habit of flossing
+- [ ] Practice better responses to certain emotional states
+- [ ] 30 min meditation each day
+- [ ] Attention training in ADHD folder
+- [ ] Get a fitness plan going
+- [ ] Keep a log of mind altering things
+- [ ] Keep track of the ratio of time spent creating vs consuming
+- [ ] Name your anger
+- [ ] Reduce the set of apps used on the phone
+- [ ] Start doing attention training
+- [ ] Make a plan to change some habits
+- [ ] Reset the kitchen and lounge daily
+- [ ] Sit down with a cup of tea and catch up with Lil for 15 min daily
+- [ ] Review the day and update tomorrow's plans for 30 min daily
+- [ ] Read a book in bed
+- [ ] Do a 3 min tidy up (do more if it feels ok)
+- [ ] "Prep, everything first" before cooking
+- [ ] Put everything away before cooking starts
+- [ ] Go to the gym regularly
+- [ ] Meditate for 25 min and record it down in Meditation Diary
+- [ ] Get enough sleep
+- [ ] Read about sleep hygiene
+- [ ] Update the sleep diary
+- [ ] Have a plan for the household chores
+- [ ] List some of my [[Mind Problems]] and try some of my proposed solutions
+- [ ] Write down what I learned about my condition and ways of coping
+- [ ] Change my self narrative
+- [ ] Decide once and ask God
+- [ ] Remember humbleness and gratefulness each day
+- [ ] Take some time each day to connect to the world
+- [ ] Take some time to forgive and ask for forgiveness
+- [ ] 5 min journal (use template)
+- [ ] Remind myself why I want to workout
+- [ ] Remind myself why I want to eat healthily
+- [ ] Wind down for the day
+- [ ] Take sleepy meds
+- [ ] Do some reading or writing without blue light
+
+## Personal Development
+
+This section is for you. It's about your personal growth, learning, and well-being. I've grouped these tasks by theme.
+
+### Learning & Growth
+- [ ] do the udemy courses I bough <https://www.udemy.com/home/my-courses/learning/> [[TODO]]
+- [ ] find some time to get back into [huggingface](https://huggingface.co/welcome) [[TODO]]
+- [ ] do the [[Elixir]] [[Pheonix Framework]] course on udemy [[TODO]]
+- [ ] find an excercise that increases my body awareness like yoga or kungfu [[TODO]]
+- [ ] read the leadwise materials and think about organisations [[TODO]]
+- [ ] learn [[posgresSQL]] [[TODO]]
+- [ ] Learning plan for the [[Legislations]] I'm interested in. [[TODO]]
+- [ ] "List out all the problems I know in my world, and think about what I can do to solve them.LIST item.text" [[TODO]]
+- [ ] Make PMP quiz in logseq [[TODO]]
+- [ ] re*read my adhd assessment and start doing some of the recommended [[TODO]]
+- [ ] read the auckland city glossary of storm water terms [[TODO]]
+- [ ] redo a presentation on computer productivity [[TODO]]
+- [ ] reread my adhd assessment and start doing some of the recommended actions [[TODO]]
+- [ ] research breakfast ideas for the kids [[TODO]]
+- [ ] research dinner ideas for the kids [[TODO]]
+- [ ] research lunch ideas for the kids [[TODO]]
+- [ ] Understand the cost formulars in PMBoK guide [[TODO]]
+- [ ] Update elm notes with what I've learnt [[TODO]]
+- [ ] [Api Tutorial](https://www.youtube.com/watch?v=pKd0Rpw7O48) [[ReST APIs]]
+- [ ] [Programmable Webs](https://www.programmableweb.com/) [[ReST APIs]]
+- [ ] [RE2 syntax](https://github.com/google/re2/blob/main/doc/syntax.txt) [[RegEx]]
+- [ ] [Regullar-Expressions.info](https://www.regular-expressions.info/reference.html) [[RegEx]]
+- [ ] [RegexOne](https://regexone.com/) [[RegEx]]
+- [ ] "[Regeneration of our land, a Producer's perspective](https://www.youtube.com/watch?v=QfTZ0rnowcc) [[watch]]" [[shows_to_watch]]
+- [ ] [2019 Sustainable Agrigculture Conference Keynote](https://www.youtube.com/watch?v=KO39Js9FUq4) [[watch]] [[shows_to_watch]]
+- [ ] [Kiss the Ground](https://kissthegroundmovie.com/?__cf_chl_jschl_tk__=pmd_.qIIA5QJB0tsUd35PDg4zi40lX2xbS1QqlQ01PYLK9w-1633893618-0-gqNtZGzNAhCjcnBszREl) [[watch]] [[shows_to_watch]]
+- [ ] [Greenpeace Regenerative Farming Revoluiton](https://www.greenpeace.org/aotearoa/campaign/regenerative-farming-revolution/) [[watch]] [[shows_to_watch]]
+- [ ] do this [video tutorial of the BIM work bench](https://www.youtube.com/watch?v=IV-nv9ygZPM) [[FreeCAD]]
+- [ ] play some guitar [[2024-02-28]]
+- [ ] check out [pydash](https://pydash.readthedocs.io/en/latest/index.html) [[2024-01-31]]
+- [ ] check out [yarl](https://yarl.aio-libs.org/en/latest/) [[2024-01-31]]
+- [ ] check out [pyinstrucment](https://github.com/joerick/pyinstrument) [[2024-01-31]]
+- [ ] watch andy's tips on [dinner parties](https://www.youtube.com/watch?v=X2sKt-WEIeU) [[2024-01-31]]
+- [ ] check out [ollama](https://ollama.ai) [[2024-01-31]]
+- [ ] python [video intro](https://www.youtube.com/watch?v=JwYwPiOh72w) [[2024-01-31]]
+- [ ] "setup a python development environment, maybe replit" [[2024-02-01]]
+- [ ] try endlessOS [[2024-02-01]]
+- [ ] police vett form for #Aotawhiti [[2024-02-01]]
+- [ ] "for the game, use python's Faker library to generate fake characters." [[2024-02-01]]
+- [ ] start using open streetmap when I get on land [[2024-03-14]]
+- [ ] try [harlequin](https://harlequin.sh) [[2024-03-14]]
+- [ ] start RTFM for [[Neovim]] [[2024-03-16]]
+- [ ] get [movies list](https://docs.google.com/document/d/1cZKzKhiR3udIegfyufzRC1qkxvZdvJjjGF2X4pWW5RM/edit) into [[Movies]] and start noting down what we watch [[2024-06-25]]
+- [ ] exsorcise the distracted mind [[2024-08-01]]
+- [ ] Close tabs [[2024-08-01]]
+- [ ] Sort out library resources [[2024-08-01]]
+- [ ] get valcro tape to stick the mechanical keyboard to my laptop for lying down mode. [[2024-08-14]]
+- [ ] To get fully back into the development of the data app without the feeling of dread [[2024-06-27]]
+
+### Health
+- [ ] do some research and make my mind up about what a healthy diet is [[Diet]]
+- [ ] This isn't working make a version that works [[20 Areas/Health/exercise_log]]
+- [ ] Diet [[20 Areas/Health/my_body]]
+- [ ] Physical health : nutrician [[TODO]]
+- [ ] Make an appointment to see a the doctor at village health [[40 Archives/March 2023]]
+- [ ] make an appointment with the physio [[40 Archives/March 2023]]
+- [ ] gym day [[2023-11-20]]
+- [ ] Get to a state of calm before the gym session with Lil and friends. [[2024-12-11]]
+
+## Enviroflow (Work)
+
+This section contains tasks related to your work at Enviroflow. It seems to be a mix of data analysis, reporting, and system administration. Many of these tasks are in your daily logs, which suggests they are ongoing responsibilities.
+
+### Data & Reporting
+- [ ] Update Data on [[Enviroflow Data Reports]]
+- [ ] on [Trello Board](https://trello.com/b/ULjUjr93/nhc-workflow), move this week's report job to 'Andrew Checking'
+- [ ] Sync data on [[Enviroflow App]]
+- [ ] Update last week's Quote data on the xero part of the enviroflow app
+- [ ] Transform data and load into DB
+- [ ] Sync project data
+- [ ] Sync labour data
+- [ ] Add the list of jobs to this week to the [Spread Sheet](https://docs.google.com/spreadsheets/d/1-c_VsrnmDK7eOB3pRxjTP0f2v0qFanpFomNuZJktDoU/edit?gid=45459369#gid=45459369)
+- [ ] update spreadsheet data from database
+- [ ] update spreadsheet data from xero reports
+- [ ] Tidy up the data in spreadsheet
+- [ ] remove duplicates in the tables
+- [ ] Look through week's job to check for data issues
+- [ ] generate summary of card descriptions
+- [ ] get a query going for EQC approvals per week
+- [ ] jobs with no or minimmal concrete for the break up period
+- [ ] list of pipelining jobs till the end of the year including the length
+- [ ] get data from xero into the system for analysis
+- [ ] tidy up pricing data
+- [ ] tidy up cost data
+- [ ] sync the full xero quote table as well as the minium table
+- [ ] get the quote status into the quote table
+- [ ] add minimum concrete rates to cost tracking
+- [ ] check out goodguys rates on xero
+- [ ] #Enviroflow quarterly report on missed invoices
+- [ ] finish the data flow design table
+- [ ] copy the data into the table
+- [ ] Write a means to sync the data to big query in hex
+- [ ] need to update the project list
+- [ ] get 58 Victors numbers in to the reports
+- [ ] Go through the list of report jobs and identify all the problems for [[Enviroflow Data Reports]]
+- [ ] Break the source tables out of the spreadsheet
+- [ ] finish checking tth
+- [ ] get up to date data going on the report spreadsheet
+- [ ] move the sheets to independent parts for analytics
+- [ ] make pipeline to sync edited sheets to motherduck
+- [ ] update the spreadsheet data for october reports
+- [ ] update project data
+- [ ] update quotes data
+- [ ] update sales data
+- [ ] update cost data [[2024-11-18]]
+- [ ] split the spredsheet out to seperate sheets so it could be synced to duckdb
+- [ ] Finish the summary report on the sheets
+- [ ] move the job cost buildup outside of man analytic spreadsheet so it could be used elsewhere.
+- [ ] spreadsheet for comparing apporval ammount for October and November
+- [ ] [[2024-12-17]] fix the quote value parsing given the field names have changed
+- [ ] get a list of jobs for Ruth to clean up for the break
+- [ ] Parse and Persist Project
+- [ ] Get Supplier Costs into project
+- [ ] Get some Project Reports Done
+- [ ] save edit results to Motherduck
+- [ ] Write the persist project data table
+- [ ] Finish project cost report.
+- [ ] Turn the flattened project into a table and save it on mother duck
+- [ ] Build the Project Performance table based on the table when I was doing the report manually   ^rmb6
+- [ ] June Project report
+- [ ] Extract the list of projects
+- [ ] Extract the data from the projects
+- [ ] Compile the report
+- [ ] variation numbers per month
+- [ ] 11:35 #🎯goal tidy up the useful parts of of the code base
+- [ ] 14:12 fix the the data pipeline to update the built data
+- [ ] sync the raw xero quotes directly to motherduck
+- [ ] sync the subs rates and details directly to
+
+### System & Process Improvement
+- [ ] a way to get everyone off the main drive
+- [ ] get photos out of the main drive
+- [ ] get the request script for closed job to work with timeout
+- [ ] get [[Michael Jack]] to start on the google drive connections
+- [ ] update sync script to save to motherduck instead of files
+- [ ] fix sync script to do the basics via github actions
+- [ ] "Add a better way to update costs, that are across multiple items"
+- [ ] try using streamlit's google sheet connector for the syncing
+- [ ] try [streaming logs with rabbitmq](https://h3xagn.com/streaming-logs-using-rabbitmq/)
+- [ ] setup forwarding rules for Jeremy's #goodguys concrete account
+- [ ] remember write a process for the xero code
+- [ ] Get a callable syncscript going
+- [ ] get a taskrunner
+- [ ] write some lessons learnt for [[Organising ELT code]]
+- [ ] come up with a plan to take in the lesson's learnt
+- [ ] Add a time each week for for sitting down and planning
+- [ ] write a saveback function for motherduck on Hex
+- [ ] Start IT onboarding doc so I don't have to think everytime we need to onboard someone.
+
+### Communication
+- [ ] reply to Glen about the assets #Enviroflow
+- [ ] "email Glen, and set out a plan about what I am doing."
+
+## Home & Garden
+
+This section is for tasks related to your home, garden, and family life. It includes everything from chores and maintenance to fun family activities.
+
+### Garden & Outdoors
+- [ ] Flame Weeder ($80) [[Elliot-Farm]]
+- [ ] Flame Weeder LPG Tank Attatchment [[Elliot-Farm]]
+- [ ] Roebuck Fork [[Elliot-Farm]]
+- [ ] Fabric -Tarp [[Elliot-Farm]]
+- [ ] Setup borders around back vege bed [[Elliot-Farm]]
+- [ ] Finish trimming the top of the Elm Hedge [[Elliot-Farm]]
+- [ ] Define what the end goal is for the garden [[Elliot-Farm]]
+- [ ] Decide what is a good closure point for this project [[Elliot-Farm]]
+- [ ] "first, figure out what I need to get into gardening." [[Elliot-Farm]]
+- [ ] figure out what systems I am going to implement to get sustain the first stage of the garden [[Elliot-Farm]]
+- [ ] Read about regenerative agriculture [[Elliot-Farm]]
+- [ ] Quick weed of the all the beds [[Elliot-Farm]]
+- [ ] Clear and loosen the Vegetable Patches [[Elliot-Farm]]
+- [ ] raise the stones in the [[Elliot-Farm]]
+- [ ] Trim hedges and bushes [[Elliot-Farm]]
+- [ ] Lay down mulch [[Elliot-Farm]]
+- [ ] get seedlings going for the plants we need to plant now [[Elliot-Farm]]
+- [ ] Clear the ominous weed Patch [[Elliot-Farm]]
+- [ ] Harvest some potatos [[Elliot-Farm]]
+- [ ] Flame weed [[Elliot-Farm]]
+- [ ] Clean outdoor dining area [[Elliot-Farm]]
+- [ ] reseal the deck #Garden [[Managing the Home]]
+- [ ] seal the fence #Garden [[Managing the Home]]
+- [ ] raise the paver area #Garden [[Managing the Home]]
+- [ ] Dedicate the garden to Eliot #Garden [[Managing the Home]]
+- [ ] Take down the Elm hedge #Garden [[Managing the Home]]
+- [ ] Replace the garden shed [[Managing the Home]]
+- [ ] Make raised planters [[Managing the Home]]
+- [ ] Fix and clear the compost pile [[Managing the Home]]
+- [ ] do something with the area in front of the demolished shed [[Managing the Home]]
+- [ ] Veggie garden [[Managing the Home]]
+- [ ] Weed [[Managing the Home]]
+- [ ] Pavers [[Managing the Home]]
+- [ ] mow lawn [[2024-02-06]]
+- [ ] dismentle to old hutch [[2023-11-04]]
+- [ ] had to abandon because it is raining [[2023-11-04]]
+- [ ] clear the toolshed [[2023-11-04]]
+- [ ] weed the front yard [[2023-11-04]]
+- [ ] get rid of the rubbish from the shed [[2023-12-02]]
+- [ ] once around the garden [[2023-12-02]]
+- [ ] clear tarped area [[2023-12-02]]
+- [ ] try to clear the blocked downpipe that causes the waterfall near the front door [[2025-01-02]]
+- [ ] get started by fixing the garden hose ^xo50 [[2025-01-02]]
+
+### House & Maintenance
+- [ ] Get a White Board [[Managing the Home]]
+- [ ] get some post-its [[Managing the Home]]
+- [ ] Get a wall calendar [[Managing the Home]]
+- [ ] Change chicken Enclosure around [[Managing the Home]]
+- [ ] setup the hot house on the concrete Pad [[Managing the Home]]
+- [ ] build a house at the back [Back House](./Back House.org) #idea [[Managing the Home]]
+- [ ] deep clean the car interior [[Managing the Home]]
+- [ ] deep clean the #Studio [[Managing the Home]]
+- [ ] make another shadowboard for tools #Garage [[Managing the Home]]
+- [ ] Konmari our stuff [[Managing the Home]]
+- [ ] Meal planning [[Managing the Home]]
+- [ ] Setup planning space at Home [[Managing the Home]]
+- [ ] Take down and get rid of the heater [[Managing the Home]]
+- [ ] Wash car upholstery [[Managing the Home]]
+- [ ] Design chicken coup for All six Chickens [[Managing the Home]]
+- [ ] Grocery Shop [[Managing the Home]]
+- [ ] [Re: Library Notice Charges Owing - Christchurch City Libraries](https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DPMmgan6My9fVRJU9HCzffpFI6Mv9Zgaqc) [[Managing the Home]]
+- [ ] konmari crazy cupboard [[Managing the Home]]
+- [ ] Wash studio carpet [[Managing_the_Home]]
+- [ ] Wash our car [[Managing_the_Home]]
+- [ ] Put up curtain track in dills room [[Managing_the_Home]]
+- [ ] Clean stain on couch [[Managing_the_Home]]
+- [ ] Fix outdoor light [[Managing_the_Home]]
+- [ ] Garage Day [[40 Archives/March 2023]]
+- [ ] clear the garage [[40 Archives/March 2023]]
+- [ ] setup the saw station [[40 Archives/March 2023]]
+- [ ] build a dropsaw station at the work bench #> [[40 Archives/March 2023]]
+- [ ] Paint fire place black [[Plans]]
+- [ ] Pull up carpet in lounge [[Plans]]
+- [ ] Clear out the garage [[10 Projects/Summer Projects 2022]]
+- [ ] make the chicken tractor [[10 Projects/Summer Projects 2022]]
+- [ ] make Vangi's bench [[10 Projects/Summer Projects 2022]]
+- [ ] make an [[outdoor table]] for the deck [[10 Projects/Summer Projects 2022]]
+- [ ] Dig out the compost [[10 Projects/Summer Projects 2022]]
+- [ ] setup the Vege patch in the concrete bit [[10 Projects/Summer Projects 2022]]
+- [ ] fix door handle [[20 Areas/Studio/Studio]]
+- [ ] adjust door so it isn't jammed [[20 Areas/Studio/Studio]]
+- [ ] fix a block under the middle of the foot rest so it doesn't berak further [[20 Areas/Studio/Studio]]
+- [ ] put something #Dylan made on the pin board [[20 Areas/Studio/Studio]]
+- [ ] fix leak in roof [[20 Areas/Studio/Studio]]
+- [ ] fix board above computer [[20 Areas/Studio/Studio]]
+- [ ] tidy up the house [[2024-02-24]]
+- [ ] put up bounty board [[2024-02-24]]
+- [ ] put up mirror [[2024-02-24]]
+- [ ] tidy up the bathroom [[2024-02-24]]
+- [ ] scrub the toilet [[2024-02-24]]
+- [ ] scrub the toilet basin [[2024-02-24]]
+- [ ] Tidy up shower room [[2024-02-24]]
+- [ ] clean shower [[2024-02-24]]
+- [ ] clean shower basin [[2024-02-24]]
+- [ ] finish the kitchen [[2024-02-24]]
+- [ ] stove top [[2024-02-24]]
+- [ ] range hood [[2024-02-24]]
+- [ ] clear cubby hole [[2024-02-24]]
+- [ ] broken electronics clearout [[2024-02-24]]
+- [ ] call the mechanic about the car light [[2024-03-05]]
+- [ ] clean the car. [[2023-10-21]]
+- [ ] try resetting the cmos on the mother board to see if it fixes the computer problem [[2023-11-20]]
+- [ ] tidy up the house a bit [[2023-11-20]]
+- [ ] sort out the computer mess [[2023-11-20]]
+- [ ] change the chicken area [[2023-12-02]]
+- [ ] sort out Creon's bed building thing. [[2024-01-21]]
+- [ ] fix laptop for Dylan's school [[2024-02-01]]
+- [ ] setup Dylan's laptop [[2024-02-06]]
+- [ ] put up the white board and the black board up [[2024-06-22]]
+- [ ] restet the house [[2024-06-22]]
+- [ ] install the washer and dryer [[2024-12-06]]
+- [ ] anti vibration mat [[2024-12-06]]
+- [ ] get the EV [[2024-12-13]]
+- [ ] clear the head space by clearing the space [[2024-12-29]]
+- [ ] go through the items in the inbox [[2024-12-29]]
+- [ ] Tidy up the thinking space in the studio [[2024-12-29]]
+- [ ] tidy up the acting space in the garage [[2024-12-29]]
+- [ ] clear and tidy up the [[20 Areas/Studio/Studio]] [[2024-12-29]]
+- [ ] clear and tidy up the [[Garage]] [[2024-12-29]]
+- [ ] go through the back log of todos and calmly think about each of them and organise them [[2024-12-29]]
+- [ ] Clear the studio [[2024-12-29]]
+- [ ] get the studio to be more like the thinking space I want it to be [[2025-01-02]]
+- [ ] nothing on the floor [[2025-01-02]]
+- [ ] clear desktop space [[2025-01-02]]
+- [ ] reset garage where I can [[2025-01-02]]
+- [ ] clear the blench top [[2025-01-02]]
+- [ ] clear the floor [[2025-01-02]]
+
+### Family & Fun
+- [ ] [port levy saddle to rod donald hut walk](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/banks-peninsula-area/things-to-do/te-ara-pataka/port-levy-saddle-to-rod-donald-hut/) [[Explore nature as a family]]
+- [ ] [Mt Sunday Track](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/hakatere-conservation-park/things-to-do/tracks/mount-sunday-track/) [[Explore nature as a family]]
+- [ ] [Godley head loop](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/godley-head/things-to-do/godley-head-loop-track/) [[Explore nature as a family]]
+- [ ] Cave stream [[Explore nature as a family]]
+- [ ] chicken stuff #> [[2023-01-26 Thursday]] [[40 Archives/January 2023]]
+- [ ] Bike Out to Little river and meet the fam there #> from #[[February 2023]] [[40 Archives/March 2023]]
+- [ ] night biking at mcleans with [Poncho](./Poncho.org) #> from #[[February 2023]] [[40 Archives/March 2023]]
+- [ ] setup a means for the chicks to play around in the yard #> from #[[40 Archives/January 2023]] [[40 Archives/March 2023]]
+- [ ] maybe do the bridal path today to check out the sailgp [[40 Archives/March 2023]]
+- [ ] Plan the coming month with Lil [[20 Areas/Goals & Todos Mapping/Monthly]]
+- [ ] Plan a date wit [[Lil]] [[20 Areas/Goals & Todos Mapping/Monthly]]
+- [ ] Plan a [[Explore nature as a family]] [[20 Areas/Goals & Todos Mapping/Monthly]]
+- [ ] Lil's Birthday [1985-08-16 Fri] SCHEDULED: <2022-08-16 Tue [[Dates To Remember]]
+- [ ] [[Elliot]]'s birthday SCHEDULED: <2022-10-05 Wed ++1y> [[Dates To Remember]]
+- [ ] put ma and Ba's birthday in here [[Dates To Remember]]
+- [ ] Book Woolshed Creek Hut via DOC website. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Check DOC website for track conditions & alerts before going. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Book accommodation in Methven or nearby if staying overnight. (Original user note: [ ] Book accomodation) [[20 Areas/Travel/Weekend Trips]]
+- [ ] "Book Ōpuke Thermal Pools (essential, especially weekends/holidays). (Original user note: [ ] Book Hot springs)" [[20 Areas/Travel/Weekend Trips]]
+- [ ] Book Manson Nicholls Hut via DOC website (Hut tickets/pass usually required). [[20 Areas/Travel/Weekend Trips]]
+- [ ] Be prepared for cold weather (Lewis Pass area can be cold year-round) and sandflies (especially near the lake). [[20 Areas/Travel/Weekend Trips]]
+- [ ] Book accommodation in Omarama if staying overnight. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Book Hot Tubs Omarama (bookings essential). [[20 Areas/Travel/Weekend Trips]]
+- [ ] Consider accommodation in Moana or nearby if making it a weekend trip. [[20 Areas/Travel/Weekend Trips]]
+- [ ] make sure there hasn't been heavy rain before [[20 Areas/Travel/Weekend Trips]]
+- [ ] Check Akaroa Museum entry. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Research Pohatu Penguins tour costs/details if interested. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Look into local walks on Akaroa.com or DOC website. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Book accommodation if staying. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Check DOC website for Hanmer Forest Park walks. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Check costs for Thermal Pools/Animal Park if interested. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Book accommodation if staying. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Check DOC website for current status of Ohau Waterfall track & Mt Fyffe tracks. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Research SUP rental costs if interested. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Check track conditions on DOC website before going. [[20 Areas/Travel/Weekend Trips]]
+- [ ] Work day out at Hanmer overnight [[2023-12-15]]
+- [ ] Jo Hikuroa's Burthday Party [[2023-12-16]]
+- [ ] Celebrate Ba's Birthday with home made pizza. [[2024-12-15]]
+- [ ] get a cake from joyful bakery [[2024-12-15]]
+- [ ] crab spotting with friends [[2025-01-01]]
+- [ ] bring chair for Ratna [[2025-01-01]]
+- [ ] cook lunch [[2025-01-01]]
+- [ ] catch up with Sagar and Poncho at night [[2025-01-02]]
+- [ ] pack for Mahia bay [[2025-01-17]]
+- [ ] cooked noodles for Dylan,> [[2025-01-17]]
+- [ ] cooked a big pot of curry [[2025-01-17]]
+
+### Food & Shopping
+- [ ] prata [[20 Areas/Travel/Travel]]
+- [ ] chicken drumsticks [[20 Areas/Travel/Travel]]
+- [ ] curry leaves [[20 Areas/Travel/Travel]]
+- [ ] curry powder [[20 Areas/Travel/Travel]]
+- [ ] onions [[20 Areas/Travel/Travel]]
+- [ ] curry cubes [[20 Areas/Travel/Travel]]
+- [ ] potatoes [[20 Areas/Travel/Travel]]
+- [ ] Nori and rice [[40 Archives/Te Mahia Bay Trip]]
+- [ ] Croissants [[40 Archives/Te Mahia Bay Trip]]
+- [ ] meat ball soup [[40 Archives/Te Mahia Bay Trip]]
+- [ ] left over curry [[40 Archives/Te Mahia Bay Trip]]
+- [ ] Pancakes [[40 Archives/Te Mahia Bay Trip]]
+- [ ] #pack Maple syrup [[40 Archives/Te Mahia Bay Trip]]
+- [ ] #pack Banana [[40 Archives/Te Mahia Bay Trip]]
+- [ ] tofu [[40 Archives/Te Mahia Bay Trip]]
+- [ ] fried eggs [[40 Archives/Te Mahia Bay Trip]]
+- [ ] Edamame [[40 Archives/Te Mahia Bay Trip]]
+- [ ] Nori Sheets [[40 Archives/Te Mahia Bay Trip]]
+- [ ] Napa Cabbage soup [[40 Archives/Te Mahia Bay Trip]]
+- [ ] #pack Napa Cabbage [[40 Archives/Te Mahia Bay Trip]]
+- [ ] Burger [[40 Archives/Te Mahia Bay Trip]]
+- [ ] veg chicken [[40 Archives/Te Mahia Bay Trip]]
+- [ ] cheese burger [[40 Archives/Te Mahia Bay Trip]]
+- [ ] Mi Goreng [[40 Archives/Te Mahia Bay Trip]]
+- [ ] get eggs [[2023-12-02]]
+- [ ] Emergency Battery [[2023-12-29]]
+- [ ] water [[2023-12-29]]
+- [ ] First aid kit [[2023-12-29]]
+- [ ] Boxes [[2023-12-29]]
+- [ ] rubbish Bag [[2023-12-29]]
+- [ ] water Jug [[2023-12-29]]
+- [ ] Labeled record crates [[2023-12-29]]
+- [ ] washing lines [[2023-12-29]]
+- [ ] Plugner [[2023-12-29]]
+- [ ] GAZEBO #Shopping [[2023-12-29]]
+- [ ] Ceremic filter #Shopping [[2023-12-29]]
+- [ ] camp table #Shopping [[2023-12-29]]
+- [ ] lots of Paper towels [[2023-12-29]]
+- [ ] #buy something [[2025-01-01]]
+- [ ] make cheese straw [[2024-04-01]]
+- [ ] Shop at New World [[2024-04-01]]
+- [ ] fruits [[2024-04-01]]
+- [ ] pack of beef [[2024-04-01]]
+- [ ] pickup order at bargin chemist for Lil [[2024-04-04]]
+- [ ] "maybe shop at yogiji again, they have some good fresh stuff" [[2024-03-07]]
+- [ ] Night Prep for Luca's party [[2024-07-19]]
+- [ ] Wrap cookies [[2024-07-19]]
+- [ ] Wash Grapes [[2024-07-19]]
+- [ ] red jello [[2024-07-19]]
+- [ ] 12:30 - 13:00 Made Miso Ramen for family [[2024-07-22]]
+- [ ] add to [[Recipes]] [[2024-07-22]]
+- [ ] get from supermarket [[2024-12-15]]
+- [ ] sago [[2024-12-15]]
+- [ ] dried raddish [[2024-12-15]]
+- [ ] mango [[2024-12-15]]
+- [ ] tomato [[2024-12-15]]
+- [ ] pizza toppings [[2024-12-15]]
+
+## Tech & Productivity
+
+This section is for tasks related to your computer setup, software, and productivity systems. It seems like you are always looking for ways to improve your workflow.
+
+### Setup & Configuration
+- [ ] setup a CV that org mode that complies to latex classes Try [[Job-Applications]]
+- [ ] Try these templates [[Job-Applications]]
+- [ ] try it out with this [Udacity course on Android Development](https://learn.udacity.com/courses/ud9012/lessons/79064883-0402-4e1a-b60a-3545e25e21f7/concepts/ea60b42f-82b1-4adb-8730-f7084c49f4e6) [[Kotlin]]
+- [ ] remap capslock to escape and shift capslock to caps lock [[30 Resources/Linux Setup]]
+- [ ] import dot files [[30 Resources/Linux Setup]]
+- [ ] setup lsp [[30 Resources/Linux Setup]]
+- [ ] install github desktop [[30 Resources/Linux Setup]]
+- [ ] install inkscape [[30 Resources/Linux Setup]]
+- [ ] [RTFM](https://docs.logseq.com/#/page/Contents) [[Logseq]]
+- [ ] figure out how to annotate PDFs in Logseq [[Logseq]]
+- [ ] setup hypothesis plugin [[Logseq]]
+- [ ] migrate notes from google keep to here [[Logseq]]
+- [ ] setup a -read it later type feature [[Logseq]]
+- [ ] setup Zotero for logseq [[Logseq]]
+- [ ] setup org roam with logseq [[Logseq]]
+- [ ] run through this [guide](https://betterstack.com/community/guides/logging/loguru/) [[loguru]]
+- [ ] this note is from ages ago. Atom is dead. See what the option is in neovim [[Markdown]]
+- [ ] seems like a cool system to get to know [[Nix]]
+- [ ] learn about how to make capture templates [[Org-Capture-Templates]]
+- [ ] Figure out how to use column mode properly [[Org-Mode_Notes]]
+- [ ] figure out how timers work [[Org-Mode_Notes]]
+- [ ] change monday to first day of week [[Org-Mode_Notes]]
+- [ ] create a short cut for org-create-table [[Org-Mode_Notes]]
+- [ ] rtfm <https://www.orgroam.com/manual.html> [[Org-Roam]]
+- [ ] customise the dailies [[Org-Capture-Templates]] [[Org-Roam]]
+- [ ] connect all the nodes where appropriate. There should be no [[Org-Roam]]
+- [ ] Setup a system for taking notes [[Org-Roam]]
+- [ ] spend some time tweaking ranger [[Ranger]]
+- [ ] you can write custom commands in python [[Ranger]]
+- [ ] Transcode the movies to mp4 so it works without transcoders [[RetroPi]]
+- [ ] Get arcade and mame roms going [[RetroPi]]
+- [ ] install fselect and spend an hour learning it and noting it down [[Shell_and_Commands]]
+- [ ] RTFM for telescpe and put the notes down here [[Telescope]]
+- [ ] write a fuzzy funder for todos in my notes with telescope. need it to manage the todos (in theory it should be easy) [[Telescope]]
+- [ ] [[Emacs]] [[Termux]]
+- [ ] install SSH [[Termux]]
+- [ ] install zsh [[Termux]]
+- [ ] [Emacs](id:9dfabd7a-6c16-4f6c-96e0-666e249e6e39) [[Termux]]
+- [ ] install SSH [[Termux]]
+- [ ] install zsh [[Termux]]
+- [ ] [read the docs](https://zed.dev/docs/languages/python) [[Zed Editor]]
+- [ ] Get the [[Obsidian]] plugin on [[Neovim]] going [[Note System]]
+- [ ] Get the [[ACE productivity system]] aspects like the task groupings implemented here [[Note System]]
+- [ ] Fix and format [[Note System]]
+- [ ] #Project Note System flow [[Note System]]
+- [ ] Try [expanso](https://espanso.org/) for system wide snippets #Computer_Setup [[Note System]]
+- [ ] Tidy up attributes #Obsidian [[Note System]]
+- [ ] install it on [[Asus Vivo Book 14 Pro]] [[Note System]]
+- [ ] map moving tabs to gt [[nvChad]]
+- [ ] map save file to <leader>fs [[nvChad]]
+- [ ] map toggle comment to ctrl-/ [[nvChad]]
+- [ ] checkout and integrate [flash.nvim](https://github.com/folke/flash.nvim) [[Neovim]] #neovim [[Neovim]]
+- [ ] checkut and integrate some of these [plugins](https://www.reddit.com/r/neovim/comments/14f0t0n/your_favourite_neovim_plugins/) into my [[Neovim]] [[Neovim]]
+- [ ] "readup on #neovim terminal with the help, to see what I can do with it" [[Neovim]]
+- [ ] maybe check out toggle term [[Neovim]]
+- [ ] make macros nicer(https://alpha2phi.medium.com/neovim-101-macros-and-registers-5e08781d9d27) [[Neovim]]
+- [ ] setup [himalaya email](https://github.com/soywod/himalaya) with [[Neovim]] [[Neovim]]
+- [ ] setup Write-Good for markdown and plain txt [[Neovim]]
+- [ ] get a surround plugin going [[Neovim]]
+- [ ] ~~setup neovim for [ipynb](https://alpha2phi.medium.com/neovim-pde-for-data-science-e1cc4c82a424)~~ doesn't seem like there is a very good solution. [[Neovim]]
+- [ ] can't get autoformat to work in python for some reason [[Neovim]]
+- [ ] check out [neovim lua guide](https://github.com/nanotee/nvim-lua-guide) [[Neovim]]
+- [ ] rtfm [[Neovim]]
+- [ ] learn vim registers [[Neovim]]
+- [ ] learn which keys to toggle layers [[30 Resources/Reference/Keychron V8]]
+- [ ] "split this docs into multiple subjects, for readability" [[Python]]
+- [ ] [PyMOTW3](https://pymotw.com/3/) has some highlights on cool standard libary usage [[Python]]
+- [ ] Stop using brave (it's kinda buggy) and go back to firefox [[2023-11-04]]
+- [ ] setup work computer with [[bluefin os]] [[2024-04-12]]
+- [ ] install [[CasaOS]] on the outside laptop [[2023-10-15]]
+- [ ] Change the weekly note template. as it's probably going to be just a review of the week. Use [[Obsidian Templater]] to get the template strings I need. [[2024-06-02]]
+- [ ] try setting up toolbox on [[Asus Vivo Book 14 Pro]] [[2024-07-01]]
+- [ ] install zsh [[2024-07-01]]
+- [ ] setup [tailscale](https://login.tailscale.com/admin/welcome) on [[Raspberry Pi]] [[2024-03-07]]
+- [ ] remove the media download automation services from [[CasaOS]] quite happy with the torrent workflow at the moment [[2024-03-07]]
+- [ ] setup [[Pi Hole]] (needs to be the dns to block ads) [[2024-03-07]]
+- [ ] first write some details down on the [[home network]] so I can better configure it [[2024-03-07]]
+- [ ] setup [obsidian-nvim](https://github.com/epwalsh/obsidian.nvim) [[2024-07-17]]
+- [ ] [[Obsidian Nvim]] [[2024-07-17]]
+- [ ] change eza from exa [[2024-07-23]]
+- [ ] copy key map to zed editor [[2024-07-25]]
+- [ ] needed to simlink the linker. `ln -s /usr/bin/ld64.lld-17 ~/bin/ld` [[2024-08-31]]
+- [ ] I want to setup lazyvim to have the festures I like [[2024-12-07]]
+- [ ] finish setting up the work computer [[2024-12-09]]
+- [ ] switch shell to zsh [[2024-12-09]]
+- [ ] Finish looking [[2024-12-09]]
+- [ ] have layer 0 as my custom the crap out of it layer. [[2024-07-07]]
+- [ ] reinstall os on the work laptop. It was a bit broken with the update [[2024-12-02]]
+- [ ] [[Computer_Setup|Computer Setup]] [[2024-12-02]]
+- [ ] re setup work computer for development workflow [[2024-12-10]]
+- [ ] setup undotree in [[Neovim|neovim]] I miss that feature [[2025-01-13]]
+- [ ] setup github-copilot on [[2025-01-16]]
+
+### Projects & Ideas
+- [ ] fill n [[parsers]]
+- [ ] python libraries to check out below [[parsers]]
+- [ ] a tab that summarizes the collection of data [[10 Projects/Planning Dash]]
+- [ ] A view to plan the subcontractors [[10 Projects/Planning Dash]]
+- [ ] "create a function in Jack's class for generating a Dataframe that call the save to spreadsheet function, and save to spreadsheet" [[10 Projects/Planning Dash]]
+- [ ] make a button that runs everything needed to update the store with the operations from the re-build code [[10 Projects/Planning Dash]]
+- [ ] create a count and matrix the games somehow to keep track of my [[Video Games]]
+- [ ] Tidy up steam game list [[Video Games]]
+- [ ] Create Script to Calculate Money Spent [[Video Games]]
+- [ ] prioritise game playing [[Video Games]]
+- [ ] Tidy up game list [[Video Games]]
+- [ ] Remove from list every game that I don't intend to play [[Video Games]]
+- [ ] Put key bits of data in the property tray so column mode can [[Video Games]]
+- [ ] Make sure the money and [[Video Games]]
+- [ ] Prioritise game play to maximise enjoyment [[Video Games]]
+- [ ] Build [[10 Projects/Personal Website]] [[Web Building]]
+- [ ] Try [[Web Building]]
+- [ ] create the blog svelte component with style I am happy with [[Website]]
+- [ ] Website #idea : Make a Calculator that counts up in realtime the temporal stats about my life [[Website]]
+- [ ] Website #idea: Make an accurate timeline of my career. [[Website]]
+- [ ] Have a system to proecess the [[ ]] [[20 Areas/Technology/Website on IPFS]]
+- [ ] sort out and update the below notes to update the idea [[Sesame_Bento]]
+- [ ] "make use of templating with jinja, given how nicely integrated with python it is" [[Sesame_Bento]]
+- [ ] start with the *mistune* markdown parser which can generate an ast of the markdown. see if I can build the data out of it [[Sesame_Bento]]
+- [ ] check out prompt toolkit [[Sesame_Bento]]
+- [ ] "Not as suitable as duckdb, phase out" [[Sesame_Bento]]
+- [ ] change db connection to a duckdb file [[Sesame_Bento]]
+- [ ] Lists [[Sesame_Bento]]
+- [ ] Tables [[Sesame_Bento]]
+- [ ] try building Dylan's Text adventure game with [beaupy](https://github.com/petereon/beaupy) or [questionary](https://github.com/tmbo/questionary?tab=readme-ov-file) [[2024-06-13]]
+- [ ] write a command line app to with plumbum to lookup [[2024-07-30]]
+
+## Shopping Lists
+
+Here are all your shopping lists in one place.
+
+### Groceries
+- [ ] Be-hoon [[Asian Groceries]]
+- [ ] Chilli oil [[Asian Groceries]]
+- [ ] Edamame [[Asian Groceries]]
+- [ ] Fish ball [[Asian Groceries]]
+- [ ] Ginger [[Asian Groceries]]
+- [ ] Jasmin rice [[Asian Groceries]]
+- [ ] Leafy Veges [[Asian Groceries]]
+- [ ] Nori [[Asian Groceries]]
+- [ ] Sesame oil [[Asian Groceries]]
+- [ ] Tofu [[Asian Groceries]]
+- [ ] Vege stock [[Asian Groceries]]
+- [ ] Wakame [[Asian Groceries]]
+- [ ] Yi Noodles [[Asian Groceries]]
+- [ ] inari [[Asian Groceries]]
+- [ ] pandan leaves [[Asian Groceries]]
+- [ ] "prata, the Singaporean brand" [[Asian Groceries]]
+- [ ] sushi rice [[Asian Groceries]]
+- [ ] 若菜 [[Asian Groceries]]
+- [ ] black pepper corn [[Super Market]]
+- [ ] Miso [[Super Market]]
+- [ ] Red onions [[Super Market]]
+- [ ] Fruit [[Super Market]]
+- [ ] Mushroom [[Super Market]]
+- [ ] Murukku [[Super Market]]
+- [ ] Eggs [[Super Market]]
+- [ ] Chocolate [[Super Market]]
+- [ ] Cooking Oil [[Super Market]]
+- [ ] Baking Paper [[Super Market]]
+- [ ] Baking powder [[Super Market]]
+- [ ] Baking soda [[Super Market]]
+- [ ] Cocoa powder [[Super Market]]
+- [ ] Coconut cream [[Super Market]]
+- [ ] Coconut milk [[Super Market]]
+- [ ] Chips [[Super Market]]
+- [ ] Edemame [[Super Market]]
+- [ ] Tofu [[Super Market]]
+- [ ] Bread [[Super Market]]
+- [ ] Wet wipes [[Super Market]]
+- [ ] Tomatoes [[Super Market]]
+- [ ] Barsoap [[Super Market]]
+- [ ] Bandaid [[Super Market]]
+- [ ] Black Beans [[Super Market]]
+- [ ] Body wash [[Super Market]]
+- [ ] Buns [[Super Market]]
+- [ ] Burger Buns [[Super Market]]
+- [ ] Butter [[Super Market]]
+- [ ] Cajun Spice [[Super Market]]
+- [ ] Capers [[Super Market]]
+- [ ] Carrots [[Super Market]]
+- [ ] Cashew [[Super Market]]
+- [ ] Cat food [[Super Market]]
+- [ ] Chia Seeds [[Super Market]]
+- [ ] Chicken Tenders [[Super Market]]
+- [ ] Chocolate Drops [[Super Market]]
+- [ ] Coconut water [[Super Market]]
+- [ ] Colby Cheese [[Super Market]]
+- [ ] Coleslaw [[Super Market]]
+- [ ] Cottage cheese [[Super Market]]
+- [ ] Cotton face pads [[Super Market]]
+- [ ] Cracker [[Super Market]]
+- [ ] Crackers (puffed Brown Rice) [[Super Market]]
+- [ ] Crackers (sesameal) [[Super Market]]
+- [ ] Cream Cheese [[Super Market]]
+- [ ] Croissant [[Super Market]]
+- [ ] Dates [[Super Market]]
+- [ ] Dish Soap refills [[Super Market]]
+- [ ] Eggs [[Super Market]]
+- [ ] Flour [[Super Market]]
+- [ ] Frozen Blue Berries [[Super Market]]
+- [ ] Frozen Prawn [[Super Market]]
+- [ ] Frozen mixed berry. [[Super Market]]
+- [ ] Garlic [[Super Market]]
+- [ ] Garlic powder [[Super Market]]
+- [ ] Green Bean [[Super Market]]
+- [ ] Ground Coffee [[Super Market]]
+- [ ] Hand soap [[Super Market]]
+- [ ] Healthy Snacks [[Super Market]]
+- [ ] Hot Cross [[Super Market]]
+- [ ] Ice Pop [[Super Market]]
+- [ ] Jelly mix [[Super Market]]
+- [ ] Jif [[Super Market]]
+- [ ] Kids Tooth Paste [[Super Market]]
+- [ ] Laundry Detergent [[Super Market]]
+- [ ] M&Ms [[Super Market]]
+- [ ] Macaroni [[Super Market]]
+- [ ] Marmite [[Super Market]]
+- [ ] Milk [[Super Market]]
+- [ ] Mince [[Super Market]]
+- [ ] Nappies [[Super Market]]
+- [ ] Nutrigrain [[Super Market]]
+- [ ] Olive Oil [[Super Market]]
+- [ ] Onions [[Super Market]]
+- [ ] Only Good Handwash (minty one) [[Super Market]]
+- [ ] Palmasan Cheese [[Super Market]]
+- [ ] Pasta [[Super Market]]
+- [ ] Peanut M&Ms [[Super Market]]
+- [ ] Pectin [[Super Market]]
+- [ ] Pickles [[Super Market]]
+- [ ] Pizza Cheese [[Super Market]]
+- [ ] Popping Corn [[Super Market]]
+- [ ] Potatoes [[Super Market]]
+- [ ] Puff pastry [[Super Market]]
+- [ ] Pumpkin [[Super Market]]
+- [ ] Pumpkin Seeds [[Super Market]]
+- [ ] Raisins [[Super Market]]
+- [ ] Salt [[Super Market]]
+- [ ] Shrimp [[Super Market]]
+- [ ] Smoked Paprika [[Super Market]]
+- [ ] Soft Brown Sugar [[Super Market]]
+- [ ] Sponges [[Super Market]]
+- [ ] Steel Wool [[Super Market]]
+- [ ] Sugar [[Super Market]]
+- [ ] Suitable fruit [[Super Market]]
+- [ ] Tea (Earl Grey) [[Super Market]]
+- [ ] Tea (Jasmine Green) [[Super Market]]
+- [ ] Tea (Peppermint) [[Super Market]]
+- [ ] Toilet Paper [[Super Market]]
+- [ ] Toothpaste [[Super Market]]
+- [ ] Tuna [[Super Market]]
+- [ ] Veggies [[Super Market]]
+- [ ] Vinegar [[Super Market]]
+- [ ] Wheat bix bite [[Super Market]]
+- [ ] Yogurt [[Super Market]]
+- [ ] lettuce [[Super Market]]
+- [ ] rice cakes [[Super Market]]
+- [ ] Wiping cloth [[Super Market]]
+- [ ] paneer [[20 Areas/Shopping/Shopping]]
+- [ ] peanut [[20 Areas/House & Garden/Shopping]]
+- [ ] almond [[20 Areas/House & Garden/Shopping]]
+- [ ] papadom [[20 Areas/House & Garden/Shopping]]
+- [ ] Chick Peas [[20 Areas/House & Garden/Shopping]]
+- [ ] Nigella seeds [[20 Areas/House & Garden/Shopping]]
+- [ ] Epsom salt [[20 Areas/House & Garden/Shopping]]
+- [ ] refill dish liquid [[20 Areas/House & Garden/Shopping]]
+- [ ] peanut [[20 Areas/House & Garden/Shopping]]
+
+### Household & General
+- [ ] Wire Brush [[hardware_shop]]
+- [ ] Putty [[hardware_shop]]
+- [ ] Succulents [[20 Areas/House & Garden/Shopping]]
+- [ ] Mulch [[20 Areas/House & Garden/Shopping]]
+- [ ] Staples [[20 Areas/House & Garden/Shopping]]
+- [ ] bike lock for dylan and Lil [[20 Areas/House & Garden/Shopping]]
+- [ ] More Rechargeable AAA battery [[20 Areas/House & Garden/Shopping]]
+- [ ] "when on a good special, the [ninja multicooker](https://www.pbtech.co.nz/product/HOMNJA0015/Ninja-Foodi-OL650-14-in-One-SmartLid-Multi-Cooker)" [[20 Areas/House & Garden/Shopping]]
+- [ ] good underware for [[Lil]] [[20 Areas/House & Garden/Shopping]]
+- [ ] Djembe [[20 Areas/House & Garden/Shopping]]
+- [ ] 2x Dynamic Mic collapsed:: true [[20 Areas/House & Garden/Shopping]]
+- [ ] Get another One [[20 Areas/House & Garden/Shopping]]
+- [ ] Good Scissors [[20 Areas/House & Garden/Shopping]]
+- [ ] Buy Knox's Gift [[2021-09-18]]
+- [ ] [[Super Market]] Shop (out of lunch stuff) [[20 Areas/House & Garden/Shopping]] [[2021-09-21]]
+- [ ] Buy a present for Nuku [[2022-02-26]]
+- [ ] Buy a present for Jordan's wee kid [[2022-02-26]]
+- [ ] Buy Tickets for Taiwan vs NZ basketball game [[2024-11-14]]
+
+### Camping
+- [ ] Tent [[Camping Packing List]]
+- [ ] Airbeds [[Camping Packing List]]
+- [ ] Pump for Airbed [[Camping Packing List]]
+- [ ] sheets [[Camping Packing List]]
+- [ ] Pillows [[Camping Packing List]]
+- [ ] Blankets [[Camping Packing List]]
+- [ ] Sleeping bag [[Camping Packing List]]
+- [ ] Camping seats [[Camping Packing List]]
+- [ ] Camping table [[Camping Packing List]]
+- [ ] picnic mat [[Camping Packing List]]
+- [ ] Cushions [[Camping Packing List]]
+- [ ] Light [[Camping Packing List]]
+- [ ] Emergency Battery [[Camping Packing List]]
+- [ ] Camping stove [[Camping Packing List]]
+- [ ] Camping Fuel [[Camping Packing List]]
+- [ ] lighter [[Camping Packing List]]
+- [ ] Pot [[Camping Packing List]]
+- [ ] Pan [[Camping Packing List]]
+- [ ] Chopping board [[Camping Packing List]]
+- [ ] Knife [[Camping Packing List]]
+- [ ] Washing basket [[Camping Packing List]]
+- [ ] Dish soap [[Camping Packing List]]
+- [ ] water [[Camping Packing List]]
+- [ ] Milo [[Camping Packing List]]
+- [ ] First aid kit [[Camping Packing List]]
+- [ ] Boxes [[Camping Packing List]]
+- [ ] Lamp [[Camping Packing List]]
+- [ ] Torch [[Camping Packing List]]
+- [ ] Beach Tent #Shopping [[Camping Packing List]]
+- [ ] Dustpan and brush [[Camping Packing List]]
+- [ ] Hand Sanitiser [[Camping Packing List]]
+- [ ] Chilly bin [[Camping Packing List]]
+- [ ] Laundry Bag [[Camping Packing List]]
+- [ ] chopsticks [[Camping Packing List]]
+- [ ] rubbish Bag [[Camping Packing List]]
+- [ ] Boogie board [[Camping Packing List]]
+- [ ] water Jug [[Camping Packing List]]
+- [ ] teapopt [[Camping Packing List]]
+- [ ] Labeled record crates [[Camping Packing List]]
+- [ ] Bowels [[Camping Packing List]]
+- [ ] Dishsoap Wand [[Camping Packing List]]
+- [ ] washing lines [[Camping Packing List]]
+- [ ] Hammock #Shopping [[Camping Packing List]]
+- [ ] Plugner #Shopping [[Camping Packing List]]
+- [ ] GAZEBO #Shopping [[Camping Packing List]]
+- [ ] Ceremic filter #Shopping [[Camping Packing List]]
+- [ ] camp table #Shopping [[Camping Packing List]]
+- [ ] lots of Paper towels [[Camping Packing List]]
+- [ ] camping cooking set #[[20 Areas/House & Garden/Shopping]] [[Camping Packing List]]
+- [ ] #buy bike lights #> from #[[40 Archives/January 2023]] [[40 Archives/March 2023]]
+
+## Miscellaneous
+
+This section is for tasks that didn't fit into the other categories. It's a mix of one-off tasks and reminders.
+
+- [ ] Distill construciton references material into more useful notes [[Construction]]
+- [ ] check the correct tire pressure #< [[30 Resources/Reference/Giant MTB]]
+- [ ] Mont the D lock #< [[30 Resources/Reference/Giant MTB]]
+- [ ] try the bike mount #< [[30 Resources/Reference/Giant MTB]]
+- [ ] find out where we can best help [[Help People]]
+- [ ] Create Contracts Admin/ Procurement CV centred around procurement (2 hrs) [[JobHunt-2019]]
+- [ ] Write cover letter [[JobHunt-2019]]
+- [ ] A 30 year old plumber switched careers and became a full time [[Listening List]]
+- [ ] Listen to the stories about christchurch [[Listening List]]
+- [ ] access - via torrent [[Movies-to-Watch]]
+- [ ] Watch [[Movies-to-Watch]]
+- [ ] Watch [[Movies-to-Watch]]
+- [ ] Watch [[Movies-to-Watch]]
+- [ ] Input the current list of snacks for trackin [[10 Projects/Old Plan]]
+- [ ] Start tracking money for the business [[10 Projects/Old Plan]]
+- [ ] Get a list of things to talk to Ryan about [[10 Projects/Old Plan]]
+- [ ] claim expenses [[10 Projects/Old Plan]]
+- [ ] stating odometer reading and ending odo reading for financial [[10 Projects/Old Plan]]
+- [ ] keep track of business kms [[10 Projects/Old Plan]]
+- [ ] keep track of business expenses [[10 Projects/Old Plan]]
+- [ ] "Apart from one development, all the assets are council assets, what happens to the value increase created by refurbishment work." [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] Does OCHT function as asset management contractor for those properties? [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] "If so, is that a guaranteed relationship?" [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] "Trust has only taken over maintenance of stock in Jul 2018, what are some of the challenges so far?" [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] What sort of lease agreement with the council. [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] "Is the trust maintaining maintaining these assets as a contracted asset manager, or is the trust liable for the risk and damages as a leasee" [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] No usual channel to resolve tenant caused damage. Does it mean there is an impact on [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] Roughly how many units are near the end of their lifecycle? [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] How available are the inital O&M information for each of the units. [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] "This year OCHT did it's first development, There's $50m of land held by the trust for development, what is the Asset Managers role in that" [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] Where does the budget come from and how is it set [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] How are the information of the performance of current assets managed? [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] "Software, how are te information about assets kept?" [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] "1st of july insulation requirements come in place, is there any work to be done there?" [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] Ask Philip about his experiences on the job [[Otautahu_Asset_Manager_Interview_Prep]]
+- [ ] Convert all of the documents I want to keep into org so they are [[Plans]]
+- [ ] Input the current list of snacks for trackin [[Plans]]
+- [ ] Start tracking money for the business [[Plans]]
+- [ ] Get a list of things to talk to Ryan about [[Plans]]
+- [ ] claim expenses [[Plans]]
+- [ ] stating odometer reading and ending odo reading for financial [[Plans]]
+- [ ] keep track of business kms [[Plans]]
+- [ ] keep track of business expenses [[Plans]]
+- [ ] tidy up the reading list [[Reading List]]
+- [ ] [BBC wisdom of the crowds](https://www.bbc.com/future/article/20140708-when-crowd-wisdom-goes-wrong) [[read]] [[Reading List]]
+- [ ] [BBC wisdom of the confident](https://www.technologyreview.com/2014/07/14/172082/forget-the-wisdom-of-crowds-neurobiologists-reveal-the-wisdom-of-the-confident/) [[read]] [[Reading List]]
+- [ ] [What can we learn from the montreal protocol](https://www.earthday.org/what-can-we-learn-from-the-montreal-protocol/) [[read]] [[Reading List]]
+- [ ] [Rodale Institue Why Regenerative Agriculture](https://rodaleinstitute.org/why-organic/organic-basics/regenerative-organic-agriculture/) [[read]] [[Reading List]]
+- [ ] [Redirecting Subsidies](https://www.wri.org/insights/redirecting-agricultural-subsidies-sustainable-food-future) [[read]] [[Reading List]]
+- [ ] Learn how to build your own social media app from scratch using [[read]] [[Reading List]]
+- [ ] How to write an amazing cover letter that will get you hired [[read]] [[Reading List]]
+- [ ] How to kill procrastination and absolutely crush it with your [[read]] [[Reading List]]
+- [ ] How to set up your Minimum Viable Product (MVP) ** a checklist to [[read]] [[Reading List]]
+- [ ] <https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview> [[Reading List]]
+- [ ] Article about impactful careers as china expert <https://80000hours.org/articles/china-careers/?source=email> [[Reading List]]
+- [ ] millionair habbits <https://medium.com/thrive-global/want-to-become-a-multi-millionaire-do-these-15-things-immediately-e1e779a6978f> [[Reading List]]
+- [ ] Early retirement tips <https://www.cnbc.com/2020/03/04/stop-wasting-money-on-these-7-useless-things-and-save-for-early-retirement.html> [[Reading List]]
+- [ ] Budgeting and agile <https://www.forbes.com/sites/stevedenning/2019/04/28/why-budgeting-cripples-agile-and-innovation/amp/> [[Reading List]]
+- [ ] Friendster Autopsy <https://www.wired.com/2013/02/friendster-autopsy/> [[Reading List]]
+- [ ] Essay Exloring why intentional communities fail <https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why> [[Reading List]]
+- [ ] Principles governing communeshttps://en.wikipedia.org/wiki/Rochdale~Principles~ [[Reading List]]
+- [ ] <https://www.stuff.co.nz/business/world/111044664/google-pay-equity-review-leads-to-raises-for-thousands-of-men> [[Reading List]]
+- [ ] Sun Yat Sen's Vision for China's development <https://archive.org/details/developmentchina00suny> [[Reading List]]
+- [ ] About Curb Cuts and accessibility <https://boomcalifornia.com/2012/06/26/the-peoples-sidewalks/> [[Reading List]]
+- [ ] 1986 article about product development <https://hbr.org/1986/01/the-new-new-product-development-game> [[Reading List]]
+- [ ] <https://www.forbes.com/sites/kenrapoza/2018/09/19/this-trade-war-is-a-bummer-for-china/#3f14eaa1d7ba> [[Reading List]]
+- [ ] <https://www.jacobinmag.com/2019/07/noam-chomsky-interview-climate-change-imperialism> [[Reading List]]
+- [ ] Rise of the useless class <https://ideas.ted.com/the-rise-of-the-useless-class/> [[Reading List]]
+- [ ] <http://www.sammichespsychmeds.com/micro-generation-born-between-1977-1983-are-given-new-name/> [[Reading List]]
+- [ ] <http://www.peelingbackhistory.co.nz/> [[Reading List]]
+- [ ] <https://www.theatlantic.com/ideas/archive/2020/02/how-mckinsey-destroyed-middle-class/605878/> [[Reading List]]
+- [ ] <https://www.nytimes.com/2020/03/09/health/coronavirus-is-very-different-from-the-spanish-flu-of-1918-heres-how.html> [[Reading List]]
+- [ ] <https://www.stuff.co.nz/the-press/news/106621649/modernist-secret-and-remains-of-a-legacy-hidden-atop-a-christchurch-office-block> [[Reading List]]
+- [ ] <https://www.stuff.co.nz/technology/107565452/father-of-the-internet-tim-bernerslee-says-its-failed-humanity> [[Reading List]]
+- [ ] how to think about monads <https://gist.github.com/cscalfani/b63552922a8deb2656ecd5ec8a1a77a8> [[Reading List]]
+- [ ] web design tips <https://jgthms.com/web-design-in-4-minutes/> [[Reading List]]
+- [ ] functors and monads <https://medium.com/@l.mugnaini/functors-applicatives-and-monads-in-pictures-784c2b5786f7> [[Reading List]]
+- [ ] <https://scuttlebutt.nz/> [[Reading List]]
+- [ ] map reduce <https://www-01.ibm.com/software/data/infosphere/hadoop/mapreduce/> [[Reading List]]
+- [ ] <https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/> [[Reading List]]
+- [ ] <https://overland.org.au/2019/02/the-14-rules-for-eternal-fascism-jordan-peterson-and-the-far-right/> [[Reading List]]
+- [ ] <https://nzhistory.govt.nz/culture/maori-language-week/100-maori-words> [[Reading List]]
+- [ ] <https://psyche.co/ideas/chinese-philosophy-has-long-known-that-mental-health-is-communal> [[Reading List]]
+- [ ] <https://thespinoff.co.nz/atea/14-02-2020/bob-jones-is-not-just-a-racist-hes-also-a-coward/> [[Reading List]]
+- [ ] <https://thespinoff.co.nz/business/30-09-2017/living-the-moral-high-life-a-week-consuming-consciously/> [[Reading List]]
+- [ ] <https://www.atlasobscura.com/series/wonder-from-home> [[Reading List]]
+- [ ] <https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve?fbclid=IwAR281QKSL1EO5WpICMyBPoxvJJTMk76OgS85UpQ6bVeWlkS1RO_uGpA1Yd4> [[Reading List]]
+- [ ] <https://www.stuff.co.nz/entertainment/celebrities/107224842/sir-peter-jacksons-world-war-i-footage-restoration-almost-too-good?cid=facebook.post.107224842> [[Reading List]]
+- [ ] Domanic Tarr <https://www.theatlantic.com/technology/archive/2017/05/meet-the-counterantidisintermediationists/527553/?single_page=true> [[Reading List]]
+- [ ] <https://www.smithsonianmag.com/science-nature/did-all-dinosaurs-have-feathers-719742/> [[Reading List]]
+- [ ] <https://www.additudemag.com/adhd-brain-training-neurofeedback-memory/> [[Reading List]]
+- [ ] <https://www.additudemag.com/cognitive-behavioral-therapy-for-adhd/> [[Reading List]]
+- [ ] <https://www.additudemag.com/decision-making-with-adhd/> [[Reading List]]
+- [ ] <https://www.additudemag.com/procrastination-stories/?utm_source=eletter> [[Reading List]]
+- [ ] <https://www.additudemag.com/signs-of-anxiety-in-adults-with-adhd/?utm_source=eletter> [[Reading List]]
+- [ ] <https://www.additudemag.com/slideshows/analysis-paralysis-and-adhd-trouble-making-decisions/> [[Reading List]]
+- [ ] <https://www.additudemag.com/slideshows/i-cant-sleep-help-for-adhd-adults/> [[Reading List]]
+- [ ] <https://www.additudemag.com/slideshows/productivity-tips/?utm_source=eletter> [[Reading List]]
+- [ ] <https://www.additudemag.com/to-do-list-delegate-adult-adhd/?utm_source=eletter> [[Reading List]]
+- [ ] <https://www.npr.org/sections/health-shots/2019/01/28/688180879/got-anger-try-naming-it-to-tame-it> [[Reading List]]
+- [ ] kafka parables <https://zork.net/~patty/pattyland/kafka/parables/parables.htm> [[Reading List]]
+- [ ] Rosemont's Analect [[Reading List]]
+- [ ] "John Steinbeck, East of Eden" [[Reading List]]
+- [ ] Tim Ferris: Tools of Titans [[Reading List]]
+- [ ] Michael Lewis: The Undoing Project [[Reading List]]
+- [ ] "Movable feast, Hemming way on the writing process." [[Reading List]]
+- [ ] Zen and the art of motorcycle maintenance [[Reading List]]
+- [ ] Stephen Wolfram: A New Kind of Science <https://www.wolframscience.com/nks/> [[Reading List]]
+- [ ] Who's got close calls to dying on site? [[The Talk about Health and Safety]]
+- [ ] Anyone else have stories to share? [[The Talk about Health and Safety]]
+- [ ] Go through the process manual [[The Talk about Health and Safety]]
+- [ ] check everyone has a their supplies [[The Talk about Health and Safety]]
+- [ ] Talk about Trello [[The Talk about Health and Safety]]
+- [ ] help get the sales pipeline setup [[30 Resources/Thief Brewery]]
+- [ ] write it out! [[Writing_Ideas]]
+- [ ] write it out! [[Writing_Ideas]]
+- [ ] write it out! [[Writing_Ideas]]
+- [ ] write it out! [[Writing_Ideas]]
+- [ ] Get paper notes into [[Logseq]] they are in a pile next to my foot in the studio [[10 Projects/Projects]]
+- [ ] "maybe write a query for 2022 in this, I have started using the journal hashtag [2022-10-26 Wednesday](../journals/2022_10_26.org)" [[20 Areas/Journaling/Journal]]
+- [ ] did unit 1 or 2 engague us to do the work? [[Jane Edgecomb]]

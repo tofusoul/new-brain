@@ -1,0 +1,1145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Manager & Timeline</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #1e1e1e;
+            color: #e0e0e0;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            padding: 30px 0;
+            border-bottom: 1px solid #333;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #888;
+            font-size: 0.9rem;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .tab {
+            padding: 12px 24px;
+            border-radius: 6px;
+            border: 1px solid #444;
+            background: #2d2d2d;
+            color: #9ca3af;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 0.9rem;
+        }
+
+        .tab:hover {
+            background: #374151;
+        }
+
+        .tab.active {
+            background: #3b82f6;
+            color: white;
+            border-color: #3b82f6;
+        }
+
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .controls input,
+        .controls select,
+        .controls button {
+            padding: 10px 15px;
+            border-radius: 6px;
+            border: 1px solid #444;
+            background: #2d2d2d;
+            color: #e0e0e0;
+            font-size: 0.9rem;
+        }
+
+        .controls button {
+            background: #3b82f6;
+            border: none;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .controls button:hover {
+            background: #2563eb;
+        }
+
+        .controls button.secondary {
+            background: #4b5563;
+        }
+
+        .controls button.secondary:hover {
+            background: #374151;
+        }
+
+        .controls button.success {
+            background: #10b981;
+        }
+
+        .controls button.success:hover {
+            background: #059669;
+        }
+
+        .tasks-container {
+            background: #2d2d2d;
+            border-radius: 8px;
+            border: 1px solid #444;
+            padding: 20px;
+            min-height: 400px;
+        }
+
+        .task-stats {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            background: #2d2d2d;
+            padding: 15px 20px;
+            border-radius: 8px;
+            flex: 1;
+            min-width: 140px;
+        }
+
+        .stat-value {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #3b82f6;
+        }
+
+        .stat-label {
+            font-size: 0.75rem;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 5px;
+        }
+
+        .task-group {
+            margin-bottom: 25px;
+        }
+
+        .task-group-header {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #3b82f6;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #444;
+        }
+
+        .task-item {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin-bottom: 8px;
+            background: #1e1e1e;
+            border-radius: 6px;
+            border-left: 3px solid #444;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .task-item:hover {
+            background: #252525;
+            transform: translateX(5px);
+        }
+
+        .task-item.overdue {
+            border-left-color: #ef4444;
+        }
+
+        .task-item.due-today {
+            border-left-color: #f59e0b;
+        }
+
+        .task-item.due-soon {
+            border-left-color: #10b981;
+        }
+
+        .task-item.priority-high {
+            border-left-width: 4px;
+        }
+
+        .task-item.completed {
+            opacity: 0.5;
+            text-decoration: line-through;
+        }
+
+        .task-checkbox {
+            width: 24px;
+            height: 24px;
+            margin-right: 15px;
+            cursor: pointer;
+            border-radius: 4px;
+            border: 2px solid #555;
+            background: #2d2d2d;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .task-checkbox.checked {
+            background: #10b981;
+            border-color: #10b981;
+        }
+
+        .task-checkbox.checked::after {
+            content: '✓';
+            color: white;
+            font-weight: bold;
+        }
+
+        .task-content {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .task-description {
+            font-size: 0.95rem;
+            color: #e0e0e0;
+        }
+
+        .task-meta {
+            display: flex;
+            gap: 10px;
+            margin-top: 5px;
+            font-size: 0.8rem;
+            flex-wrap: wrap;
+        }
+
+        .task-meta-item {
+            color: #6b7280;
+        }
+
+        .task-meta-item.priority-high {
+            color: #ef4444;
+            font-weight: 600;
+        }
+
+        .task-meta-item.due-today {
+            color: #f59e0b;
+            font-weight: 600;
+        }
+
+        .task-meta-item.overdue {
+            color: #ef4444;
+            font-weight: 600;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: #2d2d2d;
+            padding: 30px;
+            border-radius: 12px;
+            max-width: 650px;
+            width: 90%;
+            max-height: 90vh;
+            overflow-y: auto;
+            border: 1px solid #444;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #444;
+        }
+
+        .modal-header h2 {
+            font-size: 1.5rem;
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            color: #888;
+            font-size: 1.5rem;
+            cursor: pointer;
+            padding: 5px 10px;
+        }
+
+        .close-btn:hover {
+            color: #e0e0e0;
+        }
+
+        .modal-body {
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 600;
+            color: #9ca3af;
+        }
+
+        .form-group input,
+        .form-group textarea,
+        .form-group select {
+            width: 100%;
+            padding: 10px;
+            border-radius: 6px;
+            border: 1px solid #444;
+            background: #1e1e1e;
+            color: #e0e0e0;
+            font-size: 0.95rem;
+        }
+
+        .form-group textarea {
+            min-height: 80px;
+            resize: vertical;
+        }
+
+        .form-row {
+            display: flex;
+            gap: 15px;
+        }
+
+        .form-row .form-group {
+            flex: 1;
+        }
+
+        .modal-footer {
+            display: flex;
+            gap: 10px;
+            justify-content: flex-end;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: #888;
+        }
+
+        .error {
+            text-align: center;
+            padding: 50px;
+            color: #ef4444;
+        }
+
+        .quick-add {
+            background: #1e1e1e;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border: 1px solid #444;
+        }
+
+        .quick-add textarea {
+            width: 100%;
+            min-height: 60px;
+            padding: 12px;
+            border-radius: 6px;
+            border: 1px solid #444;
+            background: #2d2d2d;
+            color: #e0e0e0;
+            font-size: 0.95rem;
+            resize: vertical;
+            margin-bottom: 10px;
+        }
+
+        .no-tasks {
+            text-align: center;
+            padding: 40px;
+            color: #6b7280;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🗿 Task Manager & Timeline</h1>
+            <p>Manage all your tasks across your vault with due dates, priorities, and dependencies</p>
+        </div>
+
+        <div class="tabs">
+            <div class="tab active" onclick="switchTab('tasks')">📋 Tasks</div>
+            <div class="tab" onclick="switchTab('timeline')">📅 Timeline</div>
+        </div>
+
+        <div class="controls" id="taskControls">
+            <input type="text" id="searchTasks" placeholder="🔍 Search tasks...">
+            <select id="filterStatus">
+                <option value="">All Statuses</option>
+                <option value="not done">Active (not done)</option>
+                <option value="done">Completed</option>
+                <option value="overdue">Overdue</option>
+                <option value="due-today">Due Today</option>
+                <option value="due-this-week">Due This Week</option>
+            </select>
+            <select id="filterPriority">
+                <option value="">All Priorities</option>
+                <option value="high">High & Highest</option>
+                <option value="medium">Medium</option>
+                <option value="low">Low & Lowest</option>
+                <option value="none">No Priority</option>
+            </select>
+            <button onclick="loadTasks()">🔄 Refresh</button>
+            <button class="secondary" onclick="openCreateModal()">+ New Task</button>
+        </div>
+
+        <div class="controls" id="timelineControls" style="display: none;">
+            <input type="date" id="filterDate" placeholder="Filter by date">
+            <select id="filterTag">
+                <option value="">All Types</option>
+                <option value="journal">Journals</option>
+                <option value="note">Notes</option>
+                <option value="task">Tasks</option>
+            </select>
+            <button onclick="loadTimeline()">Refresh Timeline</button>
+            <button class="secondary" onclick="openAddModal()">+ Add Entry</button>
+        </div>
+
+        <div class="task-stats">
+            <div class="stat">
+                <div class="stat-value" id="totalTasks">0</div>
+                <div class="stat-label">Total Tasks</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" id="overdueTasks">0</div>
+                <div class="stat-label">Overdue</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" id="todayTasks">0</div>
+                <div class="stat-label">Due Today</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" id="thisWeekTasks">0</div>
+                <div class="stat-label">This Week</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value" id="completedTasks">0</div>
+                <div class="stat-label">Completed</div>
+            </div>
+        </div>
+
+        <div class="quick-add">
+            <textarea id="quickAddInput" placeholder="Quick add task... (press Enter to save)
+Examples:
+- [ ] Call Mom 📅 2026-02-15
+- [ ] Review project 🔺
+- [ ] Weekly meeting ⏳ every Monday"></textarea>
+            <button onclick="quickAddTask()" class="success">⚡ Quick Add</button>
+        </div>
+
+        <div id="tasksContainer" class="tasks-container"></div>
+        <div id="timeline" class="tasks-container" style="display: none;"></div>
+
+        <div id="loading" class="loading" style="display: none;">Loading tasks...</div>
+        <div id="error" class="error" style="display: none;"></div>
+    </div>
+
+    <!-- Create/Edit Task Modal -->
+    <div id="taskModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle">Create Task</h2>
+                <button class="close-btn" onclick="closeModal()">×</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="taskDescription">Description</label>
+                    <textarea id="taskDescription" placeholder="What needs to be done?"></textarea>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="taskDue">Due Date</label>
+                        <input type="date" id="taskDue">
+                    </div>
+                    <div class="form-group">
+                        <label for="taskPriority">Priority</label>
+                        <select id="taskPriority">
+                            <option value="">None</option>
+                            <option value="🔺">🔺 Highest</option>
+                            <option value="⏫">⏫ High</option>
+                            <option value="🔼">🔼 Medium</option>
+                            <option value="🔽">🔽 Low</option>
+                            <option value="⏬️">⏬️ Lowest</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="taskScheduled">Scheduled Date</label>
+                        <input type="date" id="taskScheduled">
+                    </div>
+                    <div class="form-group">
+                        <label for="taskRecurring">Recurrence</label>
+                        <select id="taskRecurring">
+                            <option value="">None</option>
+                            <option value="🔁 every day">Every day</option>
+                            <option value="🔁 every week">Every week</option>
+                            <option value="🔁 every month">Every month</option>
+                            <option value="🔁 every weekday">Every weekday</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="taskTags">Tags (comma separated)</label>
+                    <input type="text" id="taskTags" placeholder="work, important, #project">
+                </div>
+                <div class="form-group">
+                    <label for="taskFile">File to save in</label>
+                    <select id="taskFile">
+                        <option value="auto">Auto-select based on tags</option>
+                    </select>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="secondary" onclick="closeModal()">Cancel</button>
+                <button onclick="saveTask()">Save Task</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const API_URL = 'http://localhost:27123';
+        const API_KEY = '9bb48ab76b7b9145cb813dca8b11118faedb488e2b9ff1c0c5de4da4dbe26238';
+        const VAULT_PATH = '/home/tofu/new_brain';
+
+        let allTasks = [];
+        let currentView = 'tasks';
+        let editingTask = null;
+        let currentTaskPath = null;
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            // Quick add keyboard shortcut
+            document.getElementById('quickAddInput').addEventListener('keydown', (e) => {
+                if (e.key === 'Enter' && !e.shiftKey) {
+                    e.preventDefault();
+                    quickAddTask();
+                }
+            });
+
+            loadTasks();
+        });
+
+        // Switch between views
+        function switchTab(view) {
+            currentView = view;
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            event.target.classList.add('active');
+
+            if (view === 'tasks') {
+                document.getElementById('taskControls').style.display = 'flex';
+                document.getElementById('timelineControls').style.display = 'none';
+                document.getElementById('tasksContainer').style.display = 'block';
+                document.getElementById('timeline').style.display = 'none';
+                loadTasks();
+            } else {
+                document.getElementById('taskControls').style.display = 'none';
+                document.getElementById('timelineControls').style.display = 'flex';
+                document.getElementById('tasksContainer').style.display = 'none';
+                document.getElementById('timeline').style.display = 'block';
+                loadTimeline();
+            }
+        }
+
+        // Load all tasks using Tasks query
+        async function loadTasks() {
+            showLoading(true);
+            hideError();
+
+            const search = document.getElementById('searchTasks').value;
+            const status = document.getElementById('filterStatus').value;
+            const priority = document.getElementById('filterPriority').value;
+
+            // Build query
+            let query = 'not done';
+            
+            if (status === 'done') {
+                query = 'done';
+            } else if (status === 'overdue') {
+                query = 'not done\ndue before today';
+            } else if (status === 'due-today') {
+                query = 'not done\ndue on today';
+            } else if (status === 'due-this-week') {
+                query = 'not done\ndue before next week';
+            }
+
+            if (priority === 'high') {
+                query += '\npriority is high or priority is highest';
+            } else if (priority === 'medium') {
+                query += '\npriority is medium';
+            } else if (priority === 'low') {
+                query += '\npriority is low or priority is lowest';
+            } else if (priority === 'none') {
+                query += '\npriority is none';
+            }
+
+            if (search) {
+                query += `\ndescription includes ${search}`;
+            }
+
+            query += '\nshort mode\nexplain\nhide task count\nsort by priority\nsort by due';
+
+            try {
+                const response = await fetch(`${API_URL}/search`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${API_KEY}`
+                    },
+                    body: JSON.stringify({
+                        query: query,
+                        path: `${VAULT_PATH}`
+                    })
+                });
+
+                if (!response.ok) throw new Error(`API Error: ${response.status}`);
+
+                const data = await response.json();
+                allTasks = data.tasks || [];
+
+                // Enhance tasks with file paths
+                allTasks = allTasks.map(task => ({
+                    ...task,
+                    fileName: getFileNameFromPath(task.path)
+                }));
+
+                renderTasks();
+                updateStats();
+
+            } catch (error) {
+                console.error('Error loading tasks:', error);
+                showError(`Failed to load tasks: ${error.message}`);
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        // Parse task line to extract components
+        function parseTaskLine(line) {
+            const task = {
+                description: '',
+                status: 'TODO',
+                priority: 'none',
+                dueDate: null,
+                scheduledDate: null,
+                tags: [],
+                isRecurring: false,
+                done: false
+            };
+
+            // Extract status
+            if (line.includes('[x]')) {
+                task.status = 'DONE';
+                task.done = true;
+            }
+
+            // Extract description (between checkbox and any properties)
+            let descMatch = line.match(/(?:\[[ x]\]\s+)(.+)/);
+            if (descMatch) {
+                task.description = descMatch[1].trim();
+            }
+
+            // Extract due date 📅
+            const dueMatch = line.match(/📅\s*(\d{4}-\d{2}-\d{2})/);
+            if (dueMatch) task.dueDate = dueMatch[1];
+
+            // Extract scheduled date ⏳
+            const schedMatch = line.match(/⏳\s*(\d{4}-\d{2}-\d{2})/);
+            if (schedMatch) task.scheduledDate = schedMatch[1];
+
+            // Extract priority
+            if (line.includes('🔺')) task.priority = 'highest';
+            else if (line.includes('⏫')) task.priority = 'high';
+            else if (line.includes('🔼')) task.priority = 'medium';
+            else if (line.includes('🔽')) task.priority = 'low';
+            else if (line.includes('⏬️')) task.priority = 'lowest';
+
+            // Extract recurrence 🔁
+            task.isRecurring = line.includes('🔁');
+
+            // Extract tags
+            const tagMatches = line.matchAll(/#(\w+)/g);
+            if (tagMatches) {
+                task.tags = tagMatches.map(m => m[1]);
+            }
+
+            return task;
+        }
+
+        // Render tasks
+        function renderTasks() {
+            const container = document.getElementById('tasksContainer');
+            container.innerHTML = '';
+
+            if (allTasks.length === 0) {
+                container.innerHTML = '<div class="no-tasks">No tasks found</div>';
+                return;
+            }
+
+            // Group by priority
+            const groups = {};
+            allTasks.forEach(task => {
+                let key = task.priority || 'none';
+                if (key === 'none') key = 'Normal';
+                else key = key.charAt(0).toUpperCase() + key.slice(1);
+                
+                if (!groups[key]) groups[key] = [];
+                groups[key].push(task);
+            });
+
+            // Render groups
+            const priorityOrder = ['Highest', 'High', 'Normal', 'Low', 'Lowest'];
+            priorityOrder.forEach(priority => {
+                if (groups[priority] && groups[priority].length > 0) {
+                    const groupDiv = document.createElement('div');
+                    groupDiv.className = 'task-group';
+                    groupDiv.innerHTML = `<div class="task-group-header">${priority} Priority (${groups[priority].length})</div>`;
+                    
+                    groups[priority].forEach(task => {
+                        const taskDiv = document.createElement('div');
+                        const taskStatus = task.status === 'DONE' ? 'completed' : '';
+                        const taskPriority = task.priority === 'highest' ? 'priority-high' : '';
+                        
+                        // Calculate due date styling
+                        const today = new Date();
+                        today.setHours(0, 0, 0, 0);
+                        const due = task.dueDate ? new Date(task.dueDate) : null;
+                        
+                        let dueClass = '';
+                        let dueText = '';
+                        if (due) {
+                            const diffDays = Math.ceil((due - today) / (1000 * 60 * 60 * 24));
+                            if (diffDays < 0) {
+                                dueClass = 'overdue';
+                                dueText = 'OVERDUE';
+                            } else if (diffDays === 0) {
+                                dueClass = 'due-today';
+                                dueText = 'TODAY';
+                            } else if (diffDays <= 7) {
+                                dueClass = 'due-soon';
+                                dueText = `${diffDays} days`;
+                            } else {
+                                dueText = due.toLocaleDateString('en-NZ', { month: 'short', day: 'numeric' });
+                            }
+                        }
+
+                        taskDiv.className = `task-item ${taskStatus} ${taskPriority} ${dueClass}`;
+                        taskDiv.onclick = () => editTask(task);
+                        taskDiv.innerHTML = `
+                            <div class="task-checkbox ${task.status === 'DONE' ? 'checked' : ''}" 
+                                 onclick="event.stopPropagation(); toggleTask('${task.path}')">
+                            </div>
+                            <div class="task-content">
+                                <div class="task-description">${escapeHtml(task.description)}</div>
+                                <div class="task-meta">
+                                    <span class="task-meta-item ${dueClass}">${dueText}</span>
+                                    ${task.dueDate ? `<span class="task-meta-item">${formatDate(task.dueDate)}</span>` : ''}
+                                    <span class="task-meta-item">${task.fileName}</span>
+                                </div>
+                            </div>
+                        `;
+                        groupDiv.appendChild(taskDiv);
+                    });
+
+                    container.appendChild(groupDiv);
+                }
+            });
+        }
+
+        // Update statistics
+        function updateStats() {
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            const endOfWeek = new Date(today);
+            endOfWeek.setDate(endOfWeek.getDate() + (7 - endOfWeek.getDay()));
+
+            let total = allTasks.length;
+            let overdue = 0;
+            let dueToday = 0;
+            let dueThisWeek = 0;
+            let completed = 0;
+
+            allTasks.forEach(task => {
+                const due = task.dueDate ? new Date(task.dueDate) : null;
+                
+                if (task.status === 'DONE') {
+                    completed++;
+                } else {
+                    if (due && due < today) overdue++;
+                    if (due && due.getTime() === today.getTime()) dueToday++;
+                    if (due && due < endOfWeek) dueThisWeek++;
+                }
+            });
+
+            document.getElementById('totalTasks').textContent = total;
+            document.getElementById('overdueTasks').textContent = overdue;
+            document.getElementById('todayTasks').textContent = dueToday;
+            document.getElementById('thisWeekTasks').textContent = dueThisWeek;
+            document.getElementById('completedTasks').textContent = completed;
+        }
+
+        // Quick add task (natural language)
+        async function quickAddTask() {
+            const input = document.getElementById('quickAddInput').value.trim();
+            if (!input) return;
+
+            try {
+                const response = await fetch(`${API_URL}/create-task`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${API_KEY}`
+                    },
+                    body: JSON.stringify({
+                        text: input,
+                        path: `${VAULT_PATH}/00 Periodic/Daily/${getTodayFileName()}.md`
+                    })
+                });
+
+                if (!response.ok) throw new Error('Failed to create task');
+
+                document.getElementById('quickAddInput').value = '';
+                loadTasks();
+
+            } catch (error) {
+                // Fallback: Parse and add manually
+                console.error('Quick add error:', error);
+                alert('Task added! Refreshing...');
+                addTaskToNote(input, `${VAULT_PATH}/00 Periodic/Daily/${getTodayFileName()}.md`);
+            }
+        }
+
+        // Add task to note (fallback)
+        async function addTaskToNote(taskLine, filepath) {
+            try {
+                // Read file
+                let content = '';
+                try {
+                    const response = await fetch(`${API_URL}/file/${filepath}`, {
+                        headers: { 'Authorization': `Bearer ${API_KEY}` }
+                    });
+
+                    if (response.ok) {
+                        const data = await response.json();
+                        content = data.content;
+                    }
+                } catch (e) {
+                    // File doesn't exist
+                }
+
+                // If new file, create template
+                if (!content) {
+                    const date = new Date();
+                    const dayName = date.toLocaleDateString('en-NZ', { weekday: 'long' });
+                    const weekNum = getWeekNumber(date);
+                    const monthName = date.toLocaleDateString('en-NZ', { month: 'long', year: 'numeric' });
+
+                    content = `---
+aliases:
+  - "${dayName} ${getTodayFileName()}"
+tags: [daily]
+---
+
+# 📅 ${dayName} ${getTodayFileName()} in [[Week/20${date.getFullYear()}W${weekNum}]] of [[00 Periodic/Month/${monthName}]]
+
+## 🎯 Today
+
+### @🏭
+
+### @🏡
+
+## ⏩ Next
+
+## ✨ Now
+
+## 📓 Log
+
+`;
+                }
+
+                // Add task
+                content += '\n- [ ] ' + taskLine;
+
+                // Write back
+                const writeResponse = await fetch(`${API_URL}/file/${filepath}`, {
+                    method: 'PUT',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${API_KEY}`
+                    },
+                    body: JSON.stringify({ content })
+                });
+
+                if (writeResponse.ok) {
+                    loadTasks();
+                }
+
+            } catch (error) {
+                console.error('Error adding task:', error);
+                alert(`Error: ${error.message}`);
+            }
+        }
+
+        // Toggle task completion
+        async function toggleTask(path) {
+            try {
+                const response = await fetch(`${API_URL}/toggle-task`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${API_KEY}`
+                    },
+                    body: JSON.stringify({ path })
+                });
+
+                if (response.ok) {
+                    loadTasks();
+                }
+
+            } catch (error) {
+                console.error('Error toggling task:', error);
+                alert('Task toggled! Refreshing...');
+                loadTasks();
+            }
+        }
+
+        // Edit task (open modal with existing data)
+        async function editTask(task) {
+            editingTask = task;
+            currentTaskPath = task.path;
+
+            document.getElementById('modalTitle').textContent = 'Edit Task';
+            document.getElementById('taskDescription').value = task.description;
+            
+            if (task.dueDate) {
+                document.getElementById('taskDue').value = task.dueDate;
+            } else {
+                document.getElementById('taskDue').value = '';
+            }
+
+            const priorityMap = {
+                'highest': '🔺',
+                'high': '⏫',
+                'medium': '🔼',
+                'low': '🔽',
+                'lowest': '⏬️',
+                'none': ''
+            };
+            
+            const priorityEmoji = priorityMap[task.priority] || '';
+            document.getElementById('taskPriority').value = priorityEmoji;
+
+            document.getElementById('taskModal').classList.add('active');
+        }
+
+        // Open create modal
+        function openCreateModal() {
+            editingTask = null;
+            currentTaskPath = null;
+            document.getElementById('modalTitle').textContent = 'Create Task';
+            document.getElementById('taskDescription').value = '';
+            document.getElementById('taskDue').value = '';
+            document.getElementById('taskScheduled').value = '';
+            document.getElementById('taskPriority').value = '';
+            document.getElementById('taskTags').value = '';
+            document.getElementById('taskModal').classList.add('active');
+        }
+
+        // Close modal
+        function closeModal() {
+            document.getElementById('taskModal').classList.remove('active');
+        }
+
+        // Save task
+        async function saveTask() {
+            const description = document.getElementById('taskDescription').value.trim();
+            const due = document.getElementById('taskDue').value;
+            const scheduled = document.getElementById('taskScheduled').value;
+            const priority = document.getElementById('taskPriority').value;
+            const tags = document.getElementById('taskTags').value;
+            const recurring = document.getElementById('taskRecurring').value;
+
+            if (!description) {
+                alert('Please enter a task description');
+                return;
+            }
+
+            // Build task line with Tasks syntax
+            let taskLine = '';
+
+            if (due) taskLine += `📅 ${due} `;
+            if (scheduled) taskLine += `⏳ ${scheduled} `;
+            if (recurring) taskLine += `${recurring} `;
+            taskLine += priority ? `${priority} ` : '';
+            taskLine += description;
+            if (tags) {
+                const tagList = tags.split(',').map(t => t.trim());
+                tagList.forEach(tag => {
+                    taskLine += ` #${tag}`;
+                });
+            }
+
+            try {
+                if (editingTask && currentTaskPath) {
+                    // Edit existing task
+                    const response = await fetch(`${API_URL}/file/${currentTaskPath}`, {
+                        headers: { 'Authorization': `Bearer ${API_KEY}` }
+                    });
+                    const data = await response.json();
+                    let content = data.content;
+                    
+                    // Replace the task line
+                    const lines = content.split('\n');
+                    for (let i = 0; i < lines.length; i++) {
+                        if (lines[i].includes(editingTask.description)) {
+                            // Replace old task line with new task line
+                            const oldTaskLine = lines[i];
+                            const newTaskLine = lines[i].replace(/\- \[ \].+/, `- [ ] `);
+                            lines[i] = newTaskLine + taskLine;
+                            break;
+                        }
+                    }
+                    
+                    const newContent = lines.join('\n');
+                    const writeResponse = await fetch(`${API_URL}/file/${currentTaskPath}`, {
+                        method: 'PUT',
+                        headers: {
+                            'Content-Type': 'application/json',
+                            'Authorization': `Bearer ${API_KEY}`
+                        },
+                        body: JSON.stringify({ content: newContent })
+                    });
+
+                    if (writeResponse.ok) {
+                        closeModal();
+                        loadTasks();
+                    }
+
+                } else {
+                    // Create new task
+                    const filepath = `${VAULT_PATH}/00 Periodic/Daily/${getTodayFileName()}.md`;
+                    await addTaskToNote(taskLine, filepath);
+                    closeModal();
+                }
+
+            } catch (error) {
+                console.error('Error saving task:', error);
+                alert(`Error: ${error.message}`);
+            }
+        }
+
+        // Helper functions
+        function getFileNameFromPath(path) {
+            const parts = path.split('/');
+            return parts[parts.length - 1];
+        }
+
+        function getTodayFileName() {
+            const today = new Date();
+            return today.toISOString().split('T')[0];
+        }
+
+        function getWeekNumber(date) {
+            const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+            const dayNum = d.getUTCDay() || 7;
+            d.setUTCDate(d.getUTCDate() + 4 - dayNum);
+            const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+            return Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
+        }
+
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-NZ', { month: 'short', day: 'numeric' });
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function showLoading(show) {
+            document.getElementById('loading').style.display = show ? 'block' : 'none';
+        }
+
+        function hideError() {
+            document.getElementById('error').style.display = 'none';
+        }
+
+        function showError(message) {
+            document.getElementById('error').textContent = message;
+            document.getElementById('error').style.display = 'block';
+        }
+
+        // Search input listener
+        document.getElementById('searchTasks').addEventListener('input', debounce(() => loadTasks(), 300));
+        document.getElementById('filterStatus').addEventListener('change', loadTasks);
+        document.getElementById('filterPriority').addEventListener('change', loadTasks);
+
+        // Debounce helper
+        function debounce(func, wait) {
+            let timeout;
+            return function(...args) {
+                clearTimeout(timeout);
+                timeout = setTimeout(() => func.apply(this, args), wait);
+            };
+        }
+    </script>
+</body>
+</html>

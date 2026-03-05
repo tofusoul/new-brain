@@ -1,0 +1,216 @@
+# Inbox
+- [x] #task establish some dietary rules that are condusive to physical health ✅ 2025-09-21
+	- I have [[Diabetes]], there is only 
+- [ ] find some time to get back into [huggingface](https://huggingface.co/welcome)
+- [ ] do the [[Elixir]] [[Pheonix Framework]] course on udemy
+- [ ] find an excercise that increases my body awareness like yoga or kungfu
+- [ ] Finish Sorting files 
+- [ ] get a habbit of flossing \#[August 2023](..//home/tofu/Dropbox/new_brain/pages/august 2023.org) \>[2023-08-01 - 2023-08-31](#agenda://?start=1690848563719&end=1693442363719) 
+- [ ] [[Ideas]] Mail order, shelf stable pre-prepared organic vegetarian meals and products that banks on the NZ clean green image.
+- [ ] Make taka onsen egg udon #Kitchen 
+- [ ] maybe make a physical list or the [[Morning Ritual]] 
+- [ ] #Garden move the undigested top layer from the [[Dumped Pile]] into the bio-reactor, once I have built it.
+- [ ] open up the lounge and kitchen #House 
+- [ ] Physical health : nutrician 
+- [ ] Pop more of my favourite quotes into the quotes file 
+- [ ] practice better responses to certain emotional states 
+- [ ] Properly plan how I would use org mode to plan things 
+- [ ] Put myself on the waiting list for halswell pottery 
+- [ ] read the leadwise materials and think about organisations 
+- [ ] Schedule in regular maintenance task 
+- [ ] Set the umbrella into pavers near seating area 
+- [x] sit down and draw sometime ✅ 2025-06-16
+- [ ] start using the [Reading List](./Reading List.org) to manage my reading 
+- [ ] Sort out files in file system 
+- [x] Sort out keep [[Note System]] 
+- [ ] sort out keep notes. It\'s been the ether dump. 
+- [ ] sort out my contacts 
+- [ ] spend an hour on [[Happiness Notes]] and do some of the exercises in there
+- [ ] start a blog and discuss things with people 
+- [ ] Start planning and building Elliot farm [[Website]] 
+- [ ] start scheduling in the things we want to do together 
+- [ ] Think about how to structure my notes and structure them properly. \*\*
+- [x] visit a dentist and start fixing my bad teeth 
+- [ ] work in with the language learning parents. 
+- [ ] decude on an [[Application Stack]] 
+- [ ] [[Mushroom Farm]] plans 
+- [ ] 30 min meditaiton each day 
+- [ ] attention training in ADHD folder 
+- [x] Borrow the rita book from [[Philip Catton]] 
+- [ ] Build Armor set with Dylan 
+- [ ] build vege beds, do some Research 
+- [ ] Change Roofing screw for the [[Studio]] 
+- [ ] Check out [this website](https://www.gtrun.org/custom/init.html) for ideas on configs 
+- [ ] clear and demoloish the shed 
+- [ ] clear download folder 
+- [ ] Clear files (delete stuff) 
+- [ ] clear Garage 
+- [ ] collect short [[Computer]] scripts I\'ve writen into the scripts and tools folder
+- [ ] Collect things to read into the reading folder 
+- [ ] come up with a plan for clearing inbox items 
+- [ ] Come up with a plan for getting [[Dylan]] more confident at reading [[Chinese Language]]
+- [ ] consider growings some Cover Crops in the [[Garden]] 
+- [ ] consolidate Notes 
+- [ ] Convert all of the document I keep into [[Logseq]] really like this App
+- [ ] Create a computer technology curriculum for myself so I am not jumping from thing to thing
+- [ ] create a landging page on the webiste 
+- [ ] Create a perhaps list and move stuff to it 
+- [ ] create a workflow for when and how [[Lil]] gives me tasks 
+- [ ] Design and Build a Plant Nursary in the [[Garden]] 
+- [ ] dig out the rest of the Initial 5 Beds in the [[Garden]] 
+- [ ] Distill construciton references material into more useful notes discard where apt
+- [ ] Distill my work into apps and notes 
+- [ ] Distill old jobhunt things into lessons learnt 
+- [ ] distill old website stuff into lessons learnt 
+- [ ] Distill philosophy work and make it more clear and concise to put on website
+- [ ] Do the \'[[dreamline]]\' create a way for something like this to 
+- [ ] Document computer setup so I can better tweak them 
+- [ ] Elliot story book for Dylan 
+- [ ] Enter Validation notes 
+- [ ] Figure out a way to capture all house tasks 
+- [ ] Figure out if I should still use dropbox or other file backup 
+- [ ] figure out what I am good at with Lil 
+- [ ] Figure out what I should block out chuncks of time on (my focus)
+- [ ] Figure out which calendar app to use 
+- [ ] find out how people note down cooking stuff 
+- [ ] find out what I will find valuable from the PMI membership 
+- [x] fix curtain rails at the [[Kid's Bedroom]] 
+- [ ] fix curtain rails at our [[Lounge]] 
+- [ ] Fix Exerciser area in garage 
+- [ ] get a fitness plan going 
+- [ ] Get a list of games going and have a plan on what to play when. 
+- [ ] get back into regular thursday meetup with folks 
+- [ ] Go through Shell-Awesome 
+- [ ] keep a [[log of mind altering]] things 
+- [ ] keep track of the ratio of time spent creating vs consuming 
+- [ ] learn [[posgresSQL]] 
+- [ ] Learning plan for the [[Legislations]] I\'m interested in. 
+- [ ] List out all the problems I know in my world, and think about what I can do to solve them.LIST item.text
+WHERE !item.task
+WHERE contains(item.tags, "#buy")
+SORT file.name DESC
+- [ ] List out my stressful thoughts 
+- [ ] Make a efficient way to track how much time I spend creating vs consuming (Need to spend more time creating)
+- [ ] make a planter box for near by salad bed \#[[Garden]] 
+- [ ] make a shadow board for the remaining tools \#[[Garage]] 
+- [ ] make chargin station work 
+- [ ] Make explicit what we have in the kitchen so I can have a 
+clearer idea on what to keep or discard
+- [ ] Make PMP quiz in logseq 
+- [ ] Make regular task list 
+- [ ] Make Rules for myself 
+- [ ] make sure everything in the backpack has a place in the house [[Tidy]]
+- [ ] Make sure everything in the Car has a place in the house [[Tidy]]
+- [ ] mockup of the initial website (sketch by hand) 
+- [ ] Move a multi plug into the lounge 
+- [ ] move facebook content into website 
+- [ ] Move the goal stuff from files to Notes 
+- [ ] Move writing bits from files into notes 
+- [ ] Name your anger 
+- [ ] note down computer setup 
+- [ ] Notes are too long break them up into shorter notes 
+- [ ] Plan a first app (a small problem to solve) 
+- [ ] prep for behavioural interview questions 
+- [ ] price a renovation for turning the [[20 Areas/Studio/Studio]] into Air BnB 
+- [ ] price for [[Mushroom_Farm]] 
+- [ ] print the [[PMBOK]] 
+- [ ] re\*read my adhd assessment and start doing some of the recommended
+- [ ] read the auckland city glossary of storm water terms 
+- [ ] redo a presentation on computer productivity 
+- [ ] redo file structure LIST item.text
+WHERE !item.task
+WHERE contains(item.tags, "#buy")
+SORT file.name DESC
+- [ ] reduce the set of apps used on the phone 
+- [ ] regular syncing of important files 
+- [ ] reply to [[Philip Catton]]\'s signal message. 
+- [ ] reread my adhd assessment and start doing some of the recommended actions
+- [ ] research breakfast ideas for the kids 
+- [ ] research dinner ideas for the kids 
+- [ ] research lunch ideas for the kids 
+- [ ] return poland book to will 
+- [ ] scan all old photos from ma\'s 
+- [ ] Select some music from the collection to listen to 
+- [ ] Send recipe to school for older kid\'s cooking class like promised. [[Aotawhiti]]
+- [ ] set alternative cowsay files 
+- [ ] set up a [[Car Kit]] 
+- [ ] setup [[VSCode]] properly for code editing 
+- [ ] setup android dev environment and start hacking phone. 
+- [ ] Share my story 
+- [ ] sharpen knives [[Kitchen]] 
+- [ ] Shoe rack in kitchen 
+- [ ] simplify computer setup 
+- [ ] Simplify podcast learning list 
+- [ ] Sketch out a project charter and road map for Website 
+- [ ] sort out [[20 Areas/Shopping/Shopping]] 
+- [ ] sort out a system for set dot files 
+- [ ] sort out all digital notes 
+- [ ] Sort out all the contacts I have (family, friends, professional etc)
+- [ ] Sort out compost bin 
+- [ ] sort out Dill\'s Lego 
+- [ ] Sort out dot files 
+- [ ] sort out files at computer 
+- [ ] Sort out job applications folder \* put everything job application
+- [ ] spring onion pancakes for [[Ba]] he them a lot 
+- [ ] Start [[Meal Planning]] 
+- [ ] Start a clear [[budget]] 
+- [ ] start a philosophers in the wild group 
+- [ ] start a plant nursary 
+- [ ] start a time budget calendar. 
+- [ ] start doing attention training 
+- [ ] take [[Ma]] out for coffee, I think she needs some time out of the context of the house and kids
+- [ ] Think about every person in my wider whanau and plan something nice for each person [[People]]
+- [ ] Think about what you actually want out of the garden 
+- [ ] turn old i7 screen into a lightbox [[10 Projects/Projects]] 
+- [ ] Turn the microphone from the i7 into an interview microphone 
+- [ ] Turn the old i5 into a media centre 
+- [ ] Understand the cost formulars in PMBoK guide 
+- [ ] Update elm notes with what I\'ve learnt 
+
+# Done
+- [x] sort out the short cuts for [[Logseq]] 
+- [x] setup Google Family link on [[Dylan]]\'s phone 
+- [x] Plan in time to study for the PMP 
+- [x] Pop more of my favourite quotes into the [[Quotes]] file 
+- [x] make yokai watch for [[Dylan]] 
+- [x] Lay down mulch 
+- [x] Konmari garage 
+- [x] learn [[RegEx]] 
+- [x] Sharpen knives [[Kitchen]] 
+- [x] Put holidays and anniversaries and other celebrations in [[Dates To Remember]]
+- [x] clear the gutter all around the [[House]] #Maintenance 
+	- [[Barley]] helped do this, haven\'t thanked him.
+- CANCELED look through command history to find [[Shell Oneliners]] i have used in the past
+- [x] learn regex and apply it 
+- [x] improve my [[dotfiles]] with some ideas from <http://dotshare.it/>
+- [x] <https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-gi> 
+- [x] pute in [reading list](https://cockpit-project.org) 
+- [x] grab some nice oneliners from commandline fu 
+- [x] Change my logseq file type to org-mode so the dates work 
+- [x] sort out this list. get them in the right places 
+- [x] get better Doctors, Dentists, Specialists 
+- [x] Backup [[Dot Files]] 
+- [x] Back files up on github 
+- [x] ask [[Ba]] and [[kyrstal]] if its better to have Chinese class on Mondays.
+- [x] also check out what [this guy](https://dotdoom.netlify.com/config.html) did with his [[Emacs]] config
+- [x] systematise time managment and make an app for it 
+- [x] get programming ligatures going in [[VSCode]] 
+- [x] get garage back 
+- [x] Get Ritalin [[Health]] 
+- [x] sort out [[Garage]] 
+- [x] clear bee/ wasp hive in hay stack [[Garden]] 
+
+# Cancelled
+
+- CANCELED Do a model of the [[House]] of the house in freecad so we can better plan changes.
+	- doesn\'t seem that fun and it is a lot of learning
+- CANCELED Write up a proper wedding thanks
+- CANCELED Front Fence and Gate
+- CANCELED consider using ethercalc to build persistence api for [[elm]] prototype apps
+- CANCELED Learn [[Javascript]]
+	- I don\'t like javascrip
+- CANCELED Distill the memories folder into notes
+- CANCELED Do Rustlings (Rusts Koans)
+- CANCELED Figure out what I want to do with my career
+	- Not the way things should be done
+- CANCELED try topgrade <https://github.com/r-darwish/topgradey>

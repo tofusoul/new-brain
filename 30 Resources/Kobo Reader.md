@@ -1,0 +1,2 @@
+- Not really making the most of this reader, especially now that I am shifting to obsidian
+- 

@@ -1,0 +1,5 @@
+- Break the day into quarters:
+	- Early morning, 
+	- Late Morning, 
+	- Afternoon, 
+	- Evening

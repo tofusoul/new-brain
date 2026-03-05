@@ -1,0 +1,1 @@
+seems like the best alternative to what we had off line before google photos took over everything

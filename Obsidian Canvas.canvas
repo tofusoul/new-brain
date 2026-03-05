@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"30c2a8a197123af0","type":"text","text":"## Canvas","x":-28,"y":-427,"width":148,"height":187,"color":"4"},
+		{"id":"c5685ba204cb2f84","x":-73,"y":-100,"width":193,"height":76,"type":"text","text":"something else "},
+		{"id":"b086594deed82dbb","x":-327,"y":89,"width":147,"height":91,"type":"text","text":"Like a mind map"},
+		{"id":"1d5276f5202161c3","x":-300,"y":-180,"width":120,"height":100,"type":"text","text":"And another thing"}
+	],
+	"edges":[
+		{"id":"0e3bffe4ede886a4","fromNode":"30c2a8a197123af0","fromSide":"bottom","toNode":"c5685ba204cb2f84","toSide":"top"},
+		{"id":"0bf61de535fa8867","fromNode":"30c2a8a197123af0","fromSide":"bottom","toNode":"1d5276f5202161c3","toSide":"top"},
+		{"id":"0c11910b3420d810","fromNode":"c5685ba204cb2f84","fromSide":"bottom","toNode":"b086594deed82dbb","toSide":"top"},
+		{"id":"275b588f10dc859b","fromNode":"1d5276f5202161c3","fromSide":"bottom","toNode":"b086594deed82dbb","toSide":"top"}
+	]
+}

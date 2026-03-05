@@ -1,0 +1,1 @@
+- example of [how this works in streamlit](https://www.notion.so/avra-youtube/Streamlit-Google-Sheets-Automation-76c67cfa6d784b2eba195cc454a4dbaa)
