@@ -26,7 +26,6 @@
 		- [ ] cubone bones (pretzle)
 		- [ ] grapes
 		- [ ] ritz crackers
-		- [ ] 
 - [ ] Games and activities
 	- [ ] who's that pokemon or get Dylan to make a pokemon quiz
 	- [ ] pinyata

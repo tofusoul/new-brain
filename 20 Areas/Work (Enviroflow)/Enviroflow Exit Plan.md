@@ -30,4 +30,3 @@
 			- [ ] Look through week's job to check for data issues
 	- [ ] Reset and Return Computer
 	- [ ] show people how to access the data
-	- [ ] 

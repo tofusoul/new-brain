@@ -28,7 +28,6 @@ way to tell a story in lockdown
 
 - Not Going Quietly
 
-- [ ] Watch 
 
 - <https://www.rottentomatoes.com/m/language_lessons>
 
@@ -36,7 +35,6 @@ way to tell a story in lockdown
 
 - Nomadland
 
-- [ ] Watch 
 
 - Francis Mcdermott
 

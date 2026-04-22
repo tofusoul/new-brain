@@ -30,7 +30,6 @@ tags:
 - [x] black beans
 - [ ] Epsom salt
 - [ ] refill dish liquid
-- [ ] peanut
 
 # Garden Centre
 

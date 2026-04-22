@@ -13,7 +13,6 @@ Week 41\]\]
 - [x] deep clean of the kitchen espeicially the fridge 
 - [x] Setup the Systems for the Commercial Home Kitchen
 # Marketing
-- [ ] Setup a website 
 - [x] Register Domain Names 
 	- twobearsfood.co.nz <https://iwantmyname.com/?domain=twobearsfood.co.nz>
 	- twobearsfood.com

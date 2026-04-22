@@ -49,7 +49,7 @@ Created: 2026-01-31
 - [[SOUL.md]] — Who Bean is and core truths
 - [[IDENTITY.md]] — Who Andrew is and what matters
 - [[Obsidian Setup]] — Vault structure and PARA methodology
-- [[Things I did after installing Omarchy]] — Computer setup tasks
+- [[What I Did After Installing Omarchy]] — Computer setup tasks
 - [[00 Periodic/Daily/2026-01-31]] — Onboarding daily tasks
 
 ---

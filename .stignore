@@ -32,3 +32,6 @@ Desktop.ini
 *.tmp
 *.bak
 *.orig
+
+# semantic-vault-mcp plugin (sync conflict)
+.obsidian/plugins/semantic-vault-mcp

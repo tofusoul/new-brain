@@ -8,38 +8,32 @@ tags: []
 # Te Mahia Bay Trip
 ## Saturday [[2025-01-18]]
 ### Breakfast
-- [ ] Nori and rice
-- [ ] Croissants
+- [x] ~~Nori and rice~~
+- [x] ~~Croissants~~
 ### Lunch
-- [ ] Nori and rice
-- [ ] croissants
 ### Dinner
-- [ ] meat ball soup
-- [ ] left over curry
-- [ ] 
+- [x] ~~meat ball soup~~
+- [x] ~~left over curry~~
 ## Sunday [[2025-01-19]]
 ### Breakfast
-- [ ] Pancakes
+- [x] ~~Pancakes~~
   - [ ] #pack Maple syrup
   - [ ] #pack Banana 
   - [ ] #pack  
 ### Lunch
 ### Dinner
-- [ ] tofu
-- [ ] fried eggs
-- [ ] Edamame
-- [ ] Nori Sheets
-- [ ] Napa Cabbage soup
+- [x] ~~tofu~~
+- [x] ~~fried eggs~~
+- [x] ~~Edamame~~
+- [x] ~~Nori Sheets~~
+- [x] ~~Napa Cabbage soup~~
   - [ ] #pack Napa Cabbage
-  - [ ] 
 ## Monday [[Daily/2025-01-20]]
 ### Breakfast
 ### Lunch
-- [ ] Burger
+- [x] ~~Burger~~
   - [ ] veg chicken
   - [ ] cheese burger
-  - [ ] 
 ### Dinner
   - [ ] Mi Goreng
 ## Tuesday [[2025-01-21]]
-- [ ] 

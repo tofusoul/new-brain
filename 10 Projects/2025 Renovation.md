@@ -44,7 +44,6 @@ Major home renovation project involving demolition, structural changes, flooring
 - [ ] Shift network equipment to the cubby hole
 - [ ] Change door swing
 - [ ] Build a built-in bunk bed with ladder near the door
-- [ ] Paint walls
 
 ### Study
 - [ ] Clear Study

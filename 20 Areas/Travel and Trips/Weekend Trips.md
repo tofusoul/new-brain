@@ -99,7 +99,6 @@
   - Good selection of eateries.
 - [ ] Check DOC website for Hanmer Forest Park walks.
 - [ ] Check costs for Thermal Pools/Animal Park if interested.
-- [ ] Book accommodation if staying.
 
 ## Kaikōura
 - ~2.5 hr drive north of CHCH. Coastal town, mountain views, marine life.

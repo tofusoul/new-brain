@@ -22,7 +22,6 @@ drug effect:
 -
 -----
 ## 🎯 Today
-- [ ]
 ## 📥 Todos Noted
 - [ ] #task
 # 📝 Due/  Scheduled Tasks Not Done

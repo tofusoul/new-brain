@@ -44,7 +44,6 @@
 
 - [ ] Decide the where to puto it 
 
-- [ ] Decide the where to puto it 
 
 - [ ] Take down and get rid of the heater 
 
@@ -74,106 +73,55 @@
 
 - [ ] Fix outdoor light 
 
-- [ ] Setup planning space at Home 
 
 - [ ] Get a whiteboard 
 
-- [ ] get some post-ts 
 
-- [ ] put up a wall calendar 
 
-- [ ] Decide the where to puto it 
 
-- [ ] Decide the where to puto it 
 
-- [ ] Take down and get rid of the heater 
 
-- [ ] Wash car upholstery 
 
-- [ ] Design chicken coup for All six Chickens 
 
-- [ ] Grocery Shop 
 
-- [ ] \[Re: Library Notice Charges Owing - Christchurch City Libraries\](<https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DPMmgan6My9fVRJU9HCzffpFI6Mv9Zgaqc>) 
 
-- [ ] konmari crazy cupboard 
 
-- [ ] Wash studio carpet 
 
-- [ ] Wash our car 
 
-- [ ] Veggie garden 
 
-- [ ] Weed 
 
-- [ ] Pavers 
 
-- [ ] Put up curtain track in dills room 
 
-- [ ] Clean stain on couch 
 
-- [ ] Fix outdoor light 
 
-- [ ] Setup planning space at Home 
 
-- [ ] Get a whiteboard 
 
-- [ ] get some post-ts 
 
-- [ ] put up a wall calendar 
 
-- [ ] Decide the where to puto it 
 
-- [ ] Decide the where to puto it 
 
-- [ ] Take down and get rid of the heater 
 
-- [ ] Wash car upholstery 
 
-- [ ] Design chicken coup for All six Chickens 
 
-- [ ] Grocery Shop 
 
-- [ ] \[Re: Library Notice Charges Owing - Christchurch City Libraries\](<https://mail.google.com/mail?extsrc=sync&client=docs&plid=ACUX6DPMmgan6My9fVRJU9HCzffpFI6Mv9Zgaqc>) 
 
-- [ ] konmari crazy cupboard 
 
-- [ ] Wash studio carpet 
 
-- [ ] Wash our car 
 
-- [ ] Veggie garden 
 
-- [ ] Weed 
 
-- [ ] Pavers 
 
-- [ ] Put up curtain track in dills room 
 
-- [ ] Clean stain on couch 
 
-- [ ] Fix outdoor light 
 
-- [ ] Setup planning space at Home 
 
-- [ ] Wash car upholstery 
 
-- [ ] Design chicken coup for All six Chickens 
 
-- [ ] konmari crazy cupboard 
 
-- [ ] Wash studio carpet 
 
-- [ ] Wash our car 
 
-- [ ] Veggie garden 
 
-- [ ] Weed 
 
-- [ ] Pavers 
 
-- [ ] Put up curtain track in dills room 
 
-- [ ] Clean stain on couch 
 
-- [ ] Fix outdoor light 

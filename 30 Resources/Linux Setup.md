@@ -32,7 +32,6 @@ The terminal comes with starship prompt preinstalled
 ## Gui Apps Setup
 - [ ] install github desktop
 - [ ] install inkscape
-- [ ] 
 
 
 

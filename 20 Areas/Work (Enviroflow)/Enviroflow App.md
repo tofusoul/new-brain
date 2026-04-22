@@ -152,7 +152,6 @@ title: Enviroflow App Notes
 ### Pricing and Budget
 
 - [ ] Get Labour and Supplier budget into each quote line #Enviroflow-app.
-  - [ ]
 - [ ] save, edit and load the editable pricing data
   - #journal this was held up by old version of duckdb in the default python environment, it now has it.
   - do this in streamlit instead of hex, it's a bit more flexible, and it's a part of the data editing process
@@ -208,7 +207,6 @@ title: Enviroflow App Notes
       - [ ] Total Labour Budget
       - [ ] Labour Balance
       - [ ] Bills Budget
-    - [ ]
     - [ ] Needs Cost Calcs Done
     - [ ] Needs the Above Done First
       - [ ] Service Subs Bills

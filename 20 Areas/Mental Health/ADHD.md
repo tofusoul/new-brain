@@ -41,11 +41,6 @@ Remove shoulds be realistic practice self acceptance
 -   [Andrew Hubberman's 2021 Episode on ADHD](https://hubermanlab.com/adhd-and-how-anyone-can-improve-their-focus/)
 
 # Things to do
-- [ ] write down what I learned about my condition and ways of coping 
-- [ ] change my self narrative 
-- [ ] decide once and ask God 
-- [ ] remember humbleness and gratefullness each day 
-- [ ] take some time each day to connect to the world 
 - [XKCD Commic](https://xkcd.com/1106/)
 - Time Blindness
   - When I used this [Time Tracker](https://docs.google.com/spreadsheets/d/16fk-f7hQ0ndZmQj-TnM5Aw3_iNZADOGAdnyq2qEWIWQ/edit#gid=0) I learnt a lot about my perception of time. Maybe I should continue.

@@ -17,12 +17,9 @@ These are the things I do on most computers to make my time on it happier
 # Applications
 - [x] install [[Zen Browser]]
 	- [x] sign in for Firefox sync
-- [ ]
 - [x] Install and Setup Neovim
 	- [>]  in [[Universal Blue|ublue]] use homebrew to install neovim
 	- 
-	- [ ] 
-	- [ ] 
 ## CLI
 - [x] install `starship` for prompts
 - [x] install `chezmoi` to pull and manage dot files

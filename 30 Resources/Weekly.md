@@ -16,7 +16,6 @@ week _no: "{{date:ww}}"
 
 ## What Do I Want To Get Done This Week?
 
-- [ ]
 
 ## Monday [[{{monday:YYYY-MM-DD}}]]
 

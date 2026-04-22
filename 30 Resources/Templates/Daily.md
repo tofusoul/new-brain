@@ -4,27 +4,15 @@ aliases:
 full_date: "{{date:dddd}} {{date}}"
 ---
 
-# 📅 {{date:dddd}} {{date}} in [[00 Periodic/Week/{{date:yyyy}}-W{{date:ww}}]] of [[00 Periodic/Month/{{date:yyyy}} {{date:MMMM}}]]
+# 📅 {{date:dddd}} {{date}} in [[{{date:yyyy}}-W{{date:ww}}]] of [[{{date:yyyy}} {{date:MMMM}}]]
 
-##  🖋️ Log / Day Plan
--
-- **⌛✨ Now👇**  / 🚦Started
-- [ ]
+## 📋 Log (Timeline)
 
+## 🎯 What I Want to Do Today
 
----
+## ✍️ Noted For Future
 
-
-## 🎯 Goals and Plans Today
-- [ ]
-
----
-
-## 📥 Todos Noted
-- [ ]
-
----
-## 🎯 Today's Dashboard
+## 📟️ Tasks Dashboard
 
 ### 🚨 Overdue
 

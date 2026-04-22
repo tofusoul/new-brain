@@ -132,7 +132,6 @@ title: Super Market
 
 - [ ] Dish Soap refills
 
-- [ ] Eggs
 
 - [ ] Flour
 

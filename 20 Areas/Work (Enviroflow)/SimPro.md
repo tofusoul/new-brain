@@ -543,41 +543,27 @@ see how it works right now
 
 - \*\* Setup 
 
-- [ ] Test that linked variations values are picked up when invoicing 
 
 EQC
 
-- [ ] Figuring out scenrios to test the work flow against 
 
-- [ ] Create saved searches for each of the statuses in the main 
 
 - \*\* Prebuilts 
 
-- [ ] Check and change phrasing for prebuilts 
 
-- [ ] Adjust prebuilts that arn\'t based on cost expectations 
 
-- [ ] Pavers 
 
-- [ ] Make sure all the prebuilds are adequitely costed. (probably 
 
 aroudn 5 left)
 
-- [ ] Bark 
 
-- [ ] Heatpumps 
 
-- [ ] Gas bottle 
 
-- [ ] Stone walls 
 
-- [ ] Setup Take off templates for a standard job 
 
 - \*\* Ween off the spreadsheet 
 
-- [ ] reimport customer database, 
 
-- [ ] import from CSV remember to use company name as name 
 
 - [ ] Import the whole list of customers tracked from the spreadsheet 
 
@@ -591,13 +577,11 @@ to
 
 - [x] check box when job information entered fully 
 
-- [ ] Enter all Contacts and Notes into Simpro 
 
 - Contacts linked to sites including tennents etc
 
 - [x] Enter Quote from Scheduled Work backwards 
 
-- [ ] Setup custom searches 
 
 - \*\* Go Live meeting Nots 
 
@@ -617,7 +601,6 @@ improvements with
 
 - [x] Quotes are valid for 2 years 
 
-- [ ] more details on the prebuilds 
 
 - [x] Labour \$80 
 
@@ -633,9 +616,7 @@ per hour. \$80
 
 to :Ryan:
 
-- [ ] Maybe the text message add on. 
 
-- [ ] survey team to schedule as a team 
 
 - figure out a nice way to do this
 
@@ -643,28 +624,18 @@ to :Ryan:
 
 - [x] Setup Survey Team 
 
-- [ ] Go through the whole lifecycle of a Job for the Survey Team 
 
 - [x] Login: \[First Name\] Password: \[Surname\]123! 
 
-- [ ] Setup health and Sefty Forms 
 
-- [ ] write down the problems to sovle a way to sovle them 
 
-- [ ] add status names in tables 
 
-- [ ] Harrison Bloy Inovoice CSV for input 
 
 - \* SimPro Site Rollout 
 
-- [ ] setup safey forms 
 
-- [ ] create relevant audits 
 
-- [ ] make task template for projects 
 
-- [ ] update the annual overhead with that sheet 
 
-- [ ] Trail travel time tracking 
 
 - simPRO Implementation Programmes NZ V1.0.5 (June 2021)

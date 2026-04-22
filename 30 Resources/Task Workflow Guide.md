@@ -22,7 +22,7 @@ aliases:
 Open your daily note — see what's already scheduled/due
 
 ### Step 2: Process Inbox
-Look at the Inbox section in [[30 Resources/Task Dashboard]]
+Look at the Inbox section in [[Task Dashboard]]
 
 For each task, choose:
 
@@ -87,7 +87,7 @@ For each task, choose:
 ## 📊 Dashboard Views
 
 - **Today:** Your daily note — what's on deck
-- **Full Dashboard:** [[30 Resources/Task Dashboard]] — all views
+- **Full Dashboard:** [[Task Dashboard]] — all views
 - **By Project:** Project notes contain filtered task lists
 - **By Area:** Area notes contain relevant tasks
 

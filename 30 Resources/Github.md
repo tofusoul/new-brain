@@ -6,4 +6,4 @@ title: Github
 
 git push <https://>\<GITHUB~ACCESSTOKEN~\>@github.com/\<GITHUB~USERNAME~\>/\<REPOSITORY~NAME~\>.git
 
-git push <https://<REDACTED>@github.com/tofusoul/ORGaniseed.git>
+git push https://<GITHUB_PAT>@github.com/tofusoul/ORGaniseed.git

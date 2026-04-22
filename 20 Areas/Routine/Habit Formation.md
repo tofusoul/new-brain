@@ -102,9 +102,7 @@ To evaluate the answer, ask: "Does this behavior help me become the type of pers
 
 - Put a plan in place here to change my habit
 
-- [ ] Setup devices as single use to establish the productive contexts 
 
-- [ ] Computer only for creating things 
 
 - Writing
 
@@ -116,7 +114,6 @@ To evaluate the answer, ask: "Does this behavior help me become the type of pers
 
 - Images
 
-- [ ] Use the phone only for 
 
 - communication,
 
@@ -124,15 +121,11 @@ To evaluate the answer, ask: "Does this behavior help me become the type of pers
 
 - media creation and consumption
 
-- [ ] Only play games on the nintendo switch 
 
-- [ ] Get rid of games on phone 
 
 - [x] unsubscribe from google play subscription CLOSED: [2021-08-27 
 Fri 12:45]
 
-- [ ] Get rid of games on computer 
 
-- [ ] put the results 
 
 - Sources: [[Atomic Habits]]

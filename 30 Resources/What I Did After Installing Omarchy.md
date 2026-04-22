@@ -1,3 +1,7 @@
+---
+aliases:
+  - Things I did after installing Omarchy
+---
 # What I Did After Installing Omarchy
 *Comprehensive System Restoration Guide*
 
@@ -244,25 +248,16 @@ gesture = 3, horizontal, workspace
 - **Package managers**: Pacman, Yay (AUR), brew (via Oh My Fish)
 
 ---
-- [ ] Add wallpapers I like to the right place
 
 **LM Studio**:
-- [ ] Download models
 
 **Gaming**:
-- [ ] Setup RetroArch
 
 **Auto-start Services**:
-- [ ] Set up Syncthing auto-start
 
 **Opencode Configuration**:
-- [ ] Gruvbox themes
-- [ ] z.ai coding plan
-- [ ] openrouter setup
 
 **Other Logins**:
-- [ ] Sign into Gemini CLI
-- [ ] Sync with Brave Sync Chain
 
 ---
 

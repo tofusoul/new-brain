@@ -63,7 +63,6 @@
 - [ ] Audit Checklist 
 - Personal Document Packs 
 #  Process Notes
-- [ ] Process outline with TAs for Standard Tasks includes: 
 
 1.  Emergency Contacts
 

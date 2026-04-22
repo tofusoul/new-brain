@@ -147,7 +147,7 @@ status: complete
 
 - [[Obsidian Setup]] — Obsidian notes folder structure
 - [[PARA Methodology]] — Projects/Areas/Resources/Archives framework
-- [[Things I did after installing Omarchy]] — Computer setup tasks
+- [[What I Did After Installing Omarchy]] — Computer setup tasks
 - [[Essential Space vs Obsidian]] — Capture app comparison
 - [[Vault Content Inventory]] — Your 2025-11-28 vault catalog
 
