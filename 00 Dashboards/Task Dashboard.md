@@ -67,7 +67,7 @@ not done
 path includes House & Home
 sort by priority
 hide tags
-hide filename
+hide backlink
 ```
 
 ### Garden
@@ -77,7 +77,7 @@ not done
 path includes Garden
 sort by priority
 hide tags
-hide filename
+hide backlink
 ```
 
 ---
@@ -118,7 +118,7 @@ not done
 path includes 20 Areas/Health
 sort by priority
 hide tags
-hide filename
+hide backlink
 ```
 
 ### 💰 Finances
@@ -128,7 +128,7 @@ not done
 path includes 20 Areas/Finances
 sort by priority
 hide tags
-hide filename
+hide backlink
 ```
 
 ### 👨‍👩‍👧‍👦 Family & Relationships
@@ -138,7 +138,7 @@ not done
 path includes 20 Areas/Relationships
 sort by priority
 hide tags
-hide filename
+hide backlink
 ```
 
 ### 🧑‍💻 Career
@@ -148,7 +148,7 @@ not done
 path includes 20 Areas/Career
 sort by priority
 hide tags
-hide filename
+hide backlink
 ```
 
 ### 🧠 Note System & Productivity
@@ -158,7 +158,7 @@ not done
 path includes 20 Areas/Note System
 sort by priority
 hide tags
-hide filename
+hide backlink
 ```
 
 ---
