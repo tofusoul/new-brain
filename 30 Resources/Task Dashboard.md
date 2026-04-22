@@ -100,7 +100,7 @@ hide tags
 ```tasks
 not done
 path includes 10 Projects
-no priority
+priority is none
 sort by filename
 group by filename
 hide tags
@@ -118,7 +118,6 @@ not done
 path includes 20 Areas/Health
 sort by priority
 hide tags
-hide backlink
 ```
 
 ### 💰 Finances
