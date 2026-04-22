@@ -439,16 +439,16 @@ tags: [project, cleanup, tasks, vault-maintenance]
 
 ## Summary
 
-| Category | Original | Cancelled | Migrated to #task |
-|----------|--------:|----------:|------------------:|
-| 🏠 Home & Garden | 56 | 40 | 16 |
-| 💼 Work & Career | 70 | 70 | 0 |
-| 💻 Technology & Computing | 39 | 37 | 2 |
-| 🧠 Personal Development | 3 | 2 | 1 |
-| 👨‍👩‍👧‍👦 Relationships & Family | 19 | 18 | 1 |
-| 🏃 Health & Fitness | 4 | 0 | 4 |
-| 💰 Finance & Business | 8 | 8 | 0 |
-| ✍️ Creative & Writing | 16 | 13 | 3 |
-| 📚 Reading & Learning | 8 | 8 | 0 |
-| ❓ Uncategorized | 169 | 163 | 6 |
-| **Total** | **392** | **359** | **33** |
+| Category                           | Original | Cancelled | Migrated to #task |
+| ---------------------------------- | -------: | --------: | ----------------: |
+| 🏠 Home & Garden                   |       56 |        40 |                16 |
+| 💼 Work & Career                   |       70 |        70 |                 0 |
+| 💻 Technology & Computing          |       39 |        37 |                 2 |
+| 🧠 Personal Development            |        3 |         2 |                 1 |
+| 👨‍👩‍👧‍👦 Relationships & Family |       19 |        18 |                 1 |
+| 🏃 Health & Fitness                |        4 |         0 |                 4 |
+| 💰 Finance & Business              |        8 |         8 |                 0 |
+| ✍️ Creative & Writing              |       16 |        13 |                 3 |
+| 📚 Reading & Learning              |        8 |         8 |                 0 |
+| ❓ Uncategorized                    |      169 |       163 |                 6 |
+| **Total**                          |  **392** |   **359** |            **33** |

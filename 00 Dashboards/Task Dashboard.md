@@ -1,118 +1,191 @@
-# Task Dashboard
+---
+Type: Dashboard
+tags: [dashboard, tasks]
+---
 
-**Purpose:** Your central view of what needs doing. Confidence that if it's here, you'll see it.
+# 🗂️ Task Dashboard
+
+> Central task view. If it's not here, it doesn't exist.
+> Tasks use `#task` format. Add dates with ⏳ (scheduled) and 📅 (due).
 
 ---
 
-## 🚨 Overdue Tasks
+## 🚨 Overdue
 
 ```tasks
 not done
 due before today
 sort by priority
 sort by due
+hide tags
 ```
 
 ---
 
-## 📅 Today's Focus
+## 📅 Today
 
-### Scheduled for Today (What you planned to do)
+### Scheduled for today
 
 ```tasks
 not done
 scheduled on today
 sort by priority
+hide tags
 ```
 
-### Due Today (Hard deadlines)
+### Due today
 
 ```tasks
 not done
 due on today
 no scheduled date
 sort by priority
+hide tags
 ```
 
 ---
 
-## 📋 This Week
+## 📆 This Week
 
 ```tasks
 not done
-due this week
-group by due
-sort by priority
+scheduled after today
+scheduled before in one week
+sort by scheduled
+group by scheduled
+hide tags
 ```
 
 ---
 
-## 📥 Inbox (Untriaged Tasks)
+## 🏠 Home & Garden
 
-Tasks with no dates yet — these need triage:
+### House Maintenance
+
+```tasks
+not done
+path includes House & Home
+sort by priority
+hide tags
+hide filename
+```
+
+### Garden
+
+```tasks
+not done
+path includes Garden
+sort by priority
+hide tags
+hide filename
+```
+
+---
+
+## 🌱 Active Projects
+
+### 🔺 High Priority
+
+```tasks
+not done
+path includes 10 Projects
+priority is high
+sort by due
+group by filename
+hide tags
+```
+
+### All Projects
+
+```tasks
+not done
+path includes 10 Projects
+no priority
+sort by filename
+group by filename
+hide tags
+limit to 50
+```
+
+---
+
+## 🗺️ Areas of Life
+
+### 💪 Health & Fitness
+
+```tasks
+not done
+path includes 20 Areas/Health
+sort by priority
+hide tags
+hide filename
+```
+
+### 💰 Finances
+
+```tasks
+not done
+path includes 20 Areas/Finances
+sort by priority
+hide tags
+hide filename
+```
+
+### 👨‍👩‍👧‍👦 Family & Relationships
+
+```tasks
+not done
+path includes 20 Areas/Relationships
+sort by priority
+hide tags
+hide filename
+```
+
+### 🧑‍💻 Career
+
+```tasks
+not done
+path includes 20 Areas/Career
+sort by priority
+hide tags
+hide filename
+```
+
+### 🧠 Note System & Productivity
+
+```tasks
+not done
+path includes 20 Areas/Note System
+sort by priority
+hide tags
+hide filename
+```
+
+---
+
+## 📥 Inbox — Needs Triage
+
+*Tasks with no due date or scheduled date — assign a date or project, or cancel.*
 
 ```tasks
 not done
 no due date
 no scheduled date
 path does not include Templates
-limit to 20 tasks
-short mode
-```
-
----
-
-## 🗂️ By Priority
-
-### High Priority 🔺
-
-```tasks
-not done
-priority is high
-sort by due
-short mode
-limit to 10
-```
-
-### Medium Priority 🔼
-
-```tasks
-not done
-priority is medium
-sort by due
-short mode
-limit to 10
-```
-
----
-
-## 📊 Tasks by Location
-
-### In Projects
-
-```tasks
-not done
-path includes 10 Projects
+path does not include Sort Through Old Tasks
+sort by filename
 group by filename
-sort by due
-```
-
-### In Areas
-
-```tasks
-not done
-path includes 20 Areas
-group by filename
-sort by due
+hide tags
+limit to 30
 ```
 
 ---
 
-## 🔁 Recurring Tasks
+## ✅ Recently Completed
 
 ```tasks
-not done
-has recurrence rule
-sort by recurrence
-short mode
+done in the last 7 days
+sort by done
+hide tags
+limit to 20
 ```
