@@ -6,4 +6,4 @@
 - [x] revisit stick hut spot 
 
 ## Quick Tasks
-- [ ] #task Lower mountain bike seat for Lil
+- [ ] #task Lower mountain bike seat for Lil *([[00 Periodic/Daily/2023-04-25.md]] L31)*

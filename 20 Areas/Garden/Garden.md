@@ -65,10 +65,10 @@ sustain the first stage of the garden
 - [ ] trim the [[Elm Hedge]] in the #Garden. Overgrown
 
 ## 🌱 Garden Tasks
-- [ ] #task Top the hedge
-- [ ] #task Mow the lawn
-- [ ] #task Weed the front yard
-- [ ] #task Weed the beds
-- [ ] #task Once around the garden
-- [ ] #task Clear inorganic waste from the shed
-- [ ] #task Clear the tarped area
+- [ ] #task Top the hedge *([[00 Periodic/Daily/2022-12-03.md]] L18)*
+- [ ] #task Mow the lawn *([[00 Periodic/Daily/2022-11-03.md]] L56)*
+- [ ] #task Weed the front yard *([[00 Periodic/Daily/2023-11-04.md]] L22)*
+- [ ] #task Weed the beds *([[00 Periodic/Daily/2023-05-06.md]] L28)*
+- [ ] #task Once around the garden *([[00 Periodic/Daily/2023-12-02.md]] L22)*
+- [ ] #task Clear inorganic waste from the shed *([[00 Periodic/Daily/2023-12-02.md]] L24)*
+- [ ] #task Clear the tarped area *([[00 Periodic/Daily/2023-12-02.md]] L25)*

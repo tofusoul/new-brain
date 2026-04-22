@@ -99,6 +99,6 @@ List 3 Amazing things that Happened Today
 - Settings
 
 ## 🗂️ Note System Tasks
-- [ ] #task Continue sorting and tidying the note system structure
-- [ ] #task Sort out and standardise tags across the vault
-- [ ] #task Clear Google Keep — migrate anything worth keeping
+- [ ] #task Continue sorting and tidying the note system structure *([[00 Periodic/Daily/2023-10-15.md]] L31)*
+- [ ] #task Sort out and standardise tags across the vault *([[00 Periodic/Daily/2023-10-15.md]] L34)*
+- [ ] #task Clear Google Keep — migrate anything worth keeping *([[00 Periodic/Daily/2022-12-27.md]] L26)*

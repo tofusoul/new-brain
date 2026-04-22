@@ -105,8 +105,8 @@ Saturday
 Meal Plan Light, digestible, low GI fresh, vegan, dairy free meals. Pick recipes to try for each of the meals and shop for them.
 
 ## 💪 Health Tasks
-- [ ] #task Fix in a regular gym schedule
-- [ ] #task Join a gym and go
-- [ ] #task Set up a regular meditation practice — log in [[Meditation Diary]]
-- [ ] #task Refill supplements pill box and keep at the drawer
-- [ ] #task Read [[why I want to workout]] and [[why I want to eat healthily]] to re-motivate
+- [ ] #task Fix in a regular gym schedule *([[00 Periodic/Daily/2023-09-13.md]] L31)*
+- [ ] #task Join a gym and go *([[00 Periodic/Daily/2023-03-26.md]] L30)*
+- [ ] #task Set up a regular meditation practice — log in [[Meditation Diary]] *([[00 Periodic/Daily/2021-11-22.md]] L20)*
+- [ ] #task Refill supplements pill box and keep at the drawer *([[00 Periodic/Daily/2023-10-15.md]] L38)*
+- [ ] #task Read [[why I want to workout]] and [[why I want to eat healthily]] to re-motivate *([[00 Periodic/Daily/2023-09-13.md]] L30)*

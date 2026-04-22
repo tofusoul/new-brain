@@ -3,17 +3,10 @@
 Thoughts on Career
 
 - Questions I need to answer about my career
-
-- ☐ What are the problems that I want to work on?
-
-- ☐ What do I want to contribute to?
-
-- ☐ Do I need to retrain?
-
-- ☐ Where do I have the most Career Capital?
-
-- ☐ What Transferable skills do I have?
-
-- ☐ What Connections and lead do I have?,
-
-- ☐ What are my credentials, character, runway.
+- What are the problems that I want to work on?
+- What do I want to contribute to?
+- Do I need to retrain?
+- Where do I have the most Career Capital?
+- What Transferable skills do I have?
+- What Connections and lead do I have?,
+- What are my credentials, character, runway.

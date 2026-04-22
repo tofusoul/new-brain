@@ -25,6 +25,6 @@ author: Andrew Shih
     - 
 
 ## 💡 Creative Project Tasks
-- [ ] #task Make some slides about paraconsistency for a video
-- [ ] #task Turn the damaged Go board into a 13×13 board
-- [ ] #task Offer to run STEAM workshops at Aotawhiti (springs idea)
+- [ ] #task Make some slides about paraconsistency for a video *([[00 Periodic/Daily/2023-03-17.md]] L51)*
+- [ ] #task Turn the damaged Go board into a 13×13 board *([[00 Periodic/Daily/2022-11-03.md]] L57)*
+- [ ] #task Offer to run STEAM workshops at Aotawhiti (springs idea) *([[00 Periodic/Daily/2021-08-15.md]] L25)*
