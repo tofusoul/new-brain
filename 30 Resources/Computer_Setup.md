@@ -262,3 +262,7 @@ not sure how alive lua is, it was good when using love2d
 
 
 
+
+## 🖥️ Pending Tasks
+- [ ] #task Try resetting the CMOS on the motherboard to fix computer problem (2023-11-20)
+- [ ] #task Get photos out of the main drive and organise them

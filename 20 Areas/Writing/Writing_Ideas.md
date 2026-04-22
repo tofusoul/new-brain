@@ -23,3 +23,8 @@ author: Andrew Shih
     - makes certain activities more delightful
     - benefits to orgamizations are simply that
     - 
+
+## 💡 Creative Project Tasks
+- [ ] #task Make some slides about paraconsistency for a video
+- [ ] #task Turn the damaged Go board into a 13×13 board
+- [ ] #task Offer to run STEAM workshops at Aotawhiti (springs idea)

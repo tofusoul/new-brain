@@ -97,3 +97,8 @@ How Could you\'ve Made today better
 List 3 Amazing things that Happened Today
 
 - Settings
+
+## 🗂️ Note System Tasks
+- [ ] #task Continue sorting and tidying the note system structure
+- [ ] #task Sort out and standardise tags across the vault
+- [ ] #task Clear Google Keep — migrate anything worth keeping

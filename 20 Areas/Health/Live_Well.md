@@ -103,3 +103,10 @@ Saturday
 8 wake, smoothie 9 yoga 10 run 11 light brunch - 12 float session 2 lunch - wrap 3 writing/drawing for kids storybook 4 reading 5 cook 6 dinner 7 clean up / dylan\'s bedtime 9 relax/ sleep
 
 Meal Plan Light, digestible, low GI fresh, vegan, dairy free meals. Pick recipes to try for each of the meals and shop for them.
+
+## 💪 Health Tasks
+- [ ] #task Fix in a regular gym schedule
+- [ ] #task Join a gym and go
+- [ ] #task Set up a regular meditation practice — log in [[Meditation Diary]]
+- [ ] #task Refill supplements pill box and keep at the drawer
+- [ ] #task Read [[why I want to workout]] and [[why I want to eat healthily]] to re-motivate

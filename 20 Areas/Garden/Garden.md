@@ -63,3 +63,12 @@ sustain the first stage of the garden
 - [ ] Flame weed
 - [ ] Clean outdoor dining area
 - [ ] trim the [[Elm Hedge]] in the #Garden. Overgrown
+
+## 🌱 Garden Tasks
+- [ ] #task Top the hedge
+- [ ] #task Mow the lawn
+- [ ] #task Weed the front yard
+- [ ] #task Weed the beds
+- [ ] #task Once around the garden
+- [ ] #task Clear inorganic waste from the shed
+- [ ] #task Clear the tarped area

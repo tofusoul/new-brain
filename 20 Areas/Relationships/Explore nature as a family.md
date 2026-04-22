@@ -4,3 +4,6 @@
 - [ ] [Godley head loop](https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/godley-head/things-to-do/godley-head-loop-track/) 
 - [ ] Cave stream 
 - [x] revisit stick hut spot 
+
+## Quick Tasks
+- [ ] #task Lower mountain bike seat for Lil
